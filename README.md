@@ -1,75 +1,59 @@
-# Leyendas de la Sultana
+# Sombras de la Sultana
 
-Proyecto de relatos cortos de terror urbano ambientados en Cali y el Valle del Cauca.
+![Póster de Sombras de la Sultana](Images/Proyecto/Poster.png)
 
-## Estructura del proyecto
+**Relatos de terror urbano inspirados en Cali, su historia y sus leyendas.**
+
+Sombras de la Sultana es un proyecto narrativo que convierte lugares, personajes y
+recuerdos de Cali en historias breves de misterio y terror. Cada episodio combina
+leyenda urbana, memoria local y una atmósfera visual oscura.
+
+<p align="center">
+  <img src="Images/Proyecto/Logo.png" alt="Logo de Sombras de la Sultana" width="200">
+</p>
+
+## Episodios
+
+### 1. El caminante del Cementerio Central
+
+En el Cementerio Central aparece una tumba sin nombre y un hombre vestido de negro
+que llora frente a ella. Quien se queda escuchando puede llevarse ese lamento a casa.
+
+[Leer el guion](Episodes/01%20-%20El%20caminante%20del%20cementerio%20Central/01%20Historia/01%20-%20El%20caminante%20del%20cementerio%20Central%20-%20Guion%20literario%20v2.md)
+
+### 2. Tragedia del 7 de agosto
+
+La tragedia de 1956 sigue respirando bajo las calles de Cali. Cerca de la cruz blanca,
+un vigía espectral busca a quienes cargan con la culpa de aquella noche.
+
+[Leer el guion](Episodes/02%20-%20Tragedia%20del%207%20de%20agosto/01%20Historia/02%20-%20Tragedia%20del%207%20de%20agosto.md)
+
+### 3. La monja de San Francisco
+
+Cuando termina la rumba en el centro, una monja recorre la Plazoleta de San Francisco.
+Quien se pierde en la madrugada puede seguirla hasta una puerta del convento que no
+existe durante el día.
+
+[Leer el guion](Episodes/03%20-%20%20La%20monja%20de%20San%20Francisco/01%20Historia/03%20-%20La%20monja%20de%20San%20Francisco.md)
+
+### 4. El perro de Joaquín de Caicedo y Cuero
+
+Cada año, cerca del 25 de julio, una sombra canina da vueltas alrededor de la estatua
+de la Plaza de Caicedo. El perro sigue esperando una respuesta de su antiguo amo.
+
+[Leer el guion](Episodes/04%20-%20El%20perro%20de%20Joaquin%20de%20Caicedo%20y%20Cuero/01%20Historia/04%20-%20El%20perro%20de%20Joaquin%20de%20Caicedo%20y%20Cuero.md)
+
+## Estado del proyecto
+
+El primer episodio está en producción. Los cuatro relatos cuentan con materiales de
+desarrollo y arte; el contenido y el avance de cada uno pueden consultarse en su
+carpeta correspondiente dentro de [`Episodes/`](Episodes/).
+
+## Organización
 
 ```text
-Context/
-  Documentos generales del proyecto: direccion, produccion, estilo y flujo de trabajo.
-
-Episodes/
-  Carpeta principal de produccion. Cada relato debe tener su propia carpeta numerada.
-
-Stories/
-  Carpeta de entrada para nuevos borradores. Cuando una historia entre en produccion,
-  se mueve a su episodio correspondiente dentro de Episodes/.
-
-Images/
-  Carpeta temporal o general para imagenes sueltas. Las imagenes finales de cada relato
-  deben ir dentro de Episodes/[episodio]/03 Arte/.
-
-StoryBoards/
-  Carpeta temporal o general. Los storyboards finales deben vivir dentro del episodio.
+Context/    Guías generales de dirección y producción.
+Episodes/   Guion, storyboard, arte, audio y materiales de publicación por episodio.
+Images/     Imágenes generales del proyecto, como el póster y el logo.
+scripts/    Herramientas auxiliares de producción.
 ```
-
-## Estructura por episodio
-
-```text
-Episodes/01 - Nombre del episodio/
-  01 Historia/
-    Borrador original, version narrada y guion final.
-
-  02 Storyboard/
-    Storyboard por escenas, planos, duracion, movimiento y sonido.
-
-  03 Arte/
-    Guia grafica, paleta, prompts, referencias e imagenes generadas.
-
-    Prompts/
-      Prompts organizados para Firefly, Krea, Leonardo, Midjourney u otra IA.
-
-    Generado/
-      Imagenes finales generadas o descargadas.
-
-    Referencias/
-      Fotos propias, referencias de ubicacion, moodboard y material autorizado.
-
-  04 Audio/
-    Locucion, musica, ambientes y efectos sonoros.
-
-  05 Video/
-    Clips animados, proyectos de edicion y pruebas de montaje.
-
-  06 Exportaciones/
-    Versiones finales para TikTok, Reels, Shorts, YouTube y Facebook.
-
-  07 Publicacion/
-    Copies, hashtags, miniaturas, descripcion y notas de monetizacion.
-```
-
-## Episodio en produccion
-
-- `01 - El caminante del cementerio Central`
-
-## Flujo recomendado
-
-1. Escribir o guardar el borrador en `Stories/`.
-2. Crear carpeta del episodio en `Episodes/`.
-3. Mover el borrador a `01 Historia/`.
-4. Crear guion narrado y storyboard en `02 Storyboard/`.
-5. Crear guia grafica, prompts e imagenes en `03 Arte/`.
-6. Generar voz y sonido en `04 Audio/`.
-7. Animar y editar en `05 Video/`.
-8. Exportar versiones finales en `06 Exportaciones/`.
-9. Guardar textos de publicacion y miniaturas en `07 Publicacion/`.
