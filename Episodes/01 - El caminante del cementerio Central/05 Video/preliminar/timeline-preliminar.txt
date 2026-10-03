@@ -1,0 +1,22 @@
+Timeline preliminar - 01 El caminante del Cementerio Central
+
+Escena 01: 00s-07s | escena-01-cementerio-central-noche.png
+Texto: Dicen que en el Cementerio Central de Cali hay una tumba que no siempre esta ahi.
+
+Escena 02: 07s-15s | escena-02-el-caminante-arcos.png
+Texto: Los martes, un hombre vestido de negro cruza la entrada sin saludar a nadie.
+
+Escena 03: 15s-23s | escena-04-tumba-imposible-3pm.png
+Texto: La tumba que busca solo aparece los miercoles, exactamente a las tres de la tarde.
+
+Escena 04: 23s-32s | escena-06-lamento-tumba.png
+Texto: El caminante se arrodilla frente a esa piedra y llora hasta que cae la tarde.
+
+Escena 05: 32s-40s | escena-08-casa-madrugada.png
+Texto: El verdadero peligro no es verlo. Es escucharlo el domingo en la madrugada.
+
+Escena 06: 40s-48s | escena-09-sombra-pasillo.png
+Texto: Quienes oyen sus lamentos despiertan sabiendo que algo los esta siguiendo.
+
+Escena 07: 48s-57s | escena-11-plano-final-tumba.png
+Texto: "Todavia no es tu turno." Y esos viven. De los otros... nadie ha podido contar.
