@@ -1,17 +1,92 @@
-03 - La monja de San Francisco - Timeline preliminar
+Timeline de produccion - 03 La monja de San Francisco
+Formato: vertical 9:16
+Duracion objetivo: 90s
+Estado de arte: 8 imagenes generadas disponibles; escenas intermedias se resuelven con reutilizacion, recortes o arte pendiente.
 
-00:00 - Cali nocturna desde los cerros. Advertencia entre la musica.
-00:05 - Centro despues de la rumba. Botellas, luces apagandose.
-00:10 - Plazoleta de San Francisco vacia.
-00:15 - Torre Mudejar, iglesia y muros del convento.
-00:21 - Barrenderos y primera aparicion de la monja.
-00:27 - Rosario, dedos palidos, cera negra.
-00:33 - Flashback sugerido bajo la torre.
-00:39 - Transformacion en mujer nocturna.
-00:45 - Borracho llamado por su nombre.
-00:52 - Puerta imposible hacia el convento.
-00:59 - Amanecer: botella, cera y rosario roto.
-01:06 - Periodico desenfocado / casos insinuados.
-01:12 - Ultima advertencia en la plazoleta.
-01:18 - Cierre: "Te esta confesando."
+00:00-00:06 | Escena 01 | Imagen: ../03 Arte/Generado/escena-01-cerros-tutelares-cali.png
+Movimiento: travelling lento sobre ciudad; luces titilando; bruma tropical leve.
+Transicion entrada: fundido desde negro.
+Transicion salida: musica se deforma hacia calle vacia.
+Sonido: salsa lejana, viento suave, ciudad nocturna.
 
+00:06-00:12 | Escena 02 | Imagen: ../03 Arte/Generado/escena-02-calle-del-sabor-v2-referencia-real.png
+Movimiento: camara baja por calle; vasos y restos de rumba; luces apagandose.
+Transicion entrada: luces de ciudad bajan a calle.
+Transicion salida: corte a plazoleta / iglesia.
+Sonido: musica deformandose, pasos dispersos.
+
+00:12-00:18 | Escena 03 | Imagen: ../03 Arte/Generado/escena-03-iglesia-san-francisco.png
+Movimiento: slow push-in hacia espacio vacio; luz amarilla parpadeante.
+Transicion entrada: fuente lejana.
+Transicion salida: tilt hacia torre.
+Sonido: zumbido electrico, fuente distante.
+
+00:18-00:24 | Escena 04 | Imagen: ../03 Arte/Generado/escena-04-san-francisco-torre-mudejar-v2-referencia-real.png
+Movimiento: paneo vertical desde baldosas hasta torre; sombras coloniales largas.
+Transicion entrada: campana grave.
+Transicion salida: bajar a barrenderos / silueta.
+Sonido: campana muy distante.
+
+00:24-00:31 | Escena 05 | Imagen: ../03 Arte/Generado/escena-05-monja-san-francisco.png
+Movimiento: plano fijo; monja cruza lentamente al fondo; desplazamiento antinatural minimo.
+Transicion entrada: escoba y vidrio como capa realista.
+Transicion salida: corte a detalle sugerido de rosario.
+Sonido: escoba sobre piedra, vidrio moviendose.
+
+00:31-00:37 | Escena 06 | Imagen: PENDIENTE DE ARTE / recorte de escena-05-monja-san-francisco.png
+Movimiento: zoom o recorte a manos / habito; cera negra sugerida.
+Transicion entrada: roce de cuentas.
+Transicion salida: parpadeo de luz hacia flashback.
+Sonido: cuentas de rosario, respiracion tenue.
+
+00:37-00:43 | Escena 07 | Imagen: PENDIENTE DE ARTE / usar escena-04 como base con parpadeo
+Movimiento: fundido con parpadeo; sombra femenina bajo torre.
+Transicion entrada: campana apagada.
+Transicion salida: sombra cruza farol y cambia.
+Sonido: susurros, tela.
+
+00:43-00:50 | Escena 08 | Imagen: PENDIENTE DE ARTE
+Movimiento: transformacion por sombras, no efecto brillante; mantener rostro parcial.
+Transicion entrada: sombra sobre habito.
+Transicion salida: voz femenina llama al hombre.
+Sonido: tela rozando, nota musical baja.
+
+00:50-00:57 | Escena 09 | Imagen: PENDIENTE DE ARTE
+Movimiento: seguimiento desde atras del hombre; camara muestra que es guiado.
+Transicion entrada: voz entra antes de imagen.
+Transicion salida: seguimiento hacia puerta.
+Sonido: latido, voz femenina lejana.
+
+00:57-01:05 | Escena 10 | Imagen: ../03 Arte/Generado/escena-10-puerta-monasterio.png
+Movimiento: push-in hacia puerta; respiracion visual sutil; oscuridad profunda.
+Transicion entrada: voz a respiracion de puerta.
+Transicion salida: corte a amanecer.
+Sonido: bisagra vieja, respiracion profunda.
+
+01:05-01:11 | Escena 11 | Imagen: PENDIENTE DE ARTE
+Movimiento: cenital lento sobre restos; luz fria de amanecer.
+Transicion entrada: oscuridad de puerta se abre a amanecer.
+Transicion salida: cera negra a tinta corrida.
+Sonido: silencio, escoba distante.
+
+01:11-01:17 | Escena 12 | Imagen: ../03 Arte/Generado/escena-14-periodico-el-caleno-v2-referencia-real.png
+Movimiento: fundido sobre periodico desenfocado; papel vibra; evitar texto legible.
+Transicion entrada: mancha de cera a tinta.
+Transicion salida: papel a plazoleta final.
+Sonido: papel moviendose, golpe bajo.
+
+01:17-01:23 | Escena 13 | Imagen: ../03 Arte/Generado/escena-14-periodico-desaparecido-san-francisco.png
+Movimiento: usar recorte / fundido a sombra de mujer; zoom lento hacia velo si aplica.
+Transicion entrada: periodico confirma rumor.
+Transicion salida: detalle de rosario / negro.
+Sonido: campana despues de las tres.
+
+01:23-01:30 | Escena 14 | Imagen: ../03 Arte/Generado/escena-10-puerta-monasterio.png
+Movimiento: puerta se cierra visualmente; fundido a negro desde oscuridad interior.
+Transicion entrada: rosario / bisagra.
+Transicion salida: corte seco a negro.
+Sonido: susurro con reverb, golpe seco final.
+
+Notas de produccion:
+- Primer armado viable con las 8 imagenes disponibles.
+- Prioridad de arte pendiente: rosario/cera, transformacion en mujer, borracho llamado, amanecer con objetos.

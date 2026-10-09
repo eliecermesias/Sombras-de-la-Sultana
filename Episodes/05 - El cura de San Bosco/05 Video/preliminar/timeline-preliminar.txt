@@ -1,14 +1,98 @@
-00:00-00:05 Centro de Cali: repuestos, metal, rejas bajando, San Bosco al fondo.
-00:05-00:11 Fachada de San Bosco con luz amarilla y calle humeda.
-00:11-00:17 Ventanas altas del claustro; aparece una sombra quieta.
-00:17-00:23 La sombra toma forma de sotana negra, rostro oculto.
-00:23-00:30 Memoria antigua: padre Juan Manuel con estudiantes sugeridos en sombra.
-00:30-00:36 Pasillos, bancas y puertas de San Bosco en luz baja.
-00:36-00:42 Noche del viernes 20 de abril de 1945, calle vacia.
-00:42-00:49 Mano encendiendo cigarrillo, brasa roja y humo en el farol.
-00:49-00:56 Hombre beodo visto de lejos; destello de machete solo sugerido.
-00:56-01:02 Calle vacia despues del golpe. Nadie ve, nadie escucha.
-01:02-01:10 Ultima plegaria: el padre encomienda sus pequenos a Cali.
-01:10-01:18 Presente: humo se convierte en reflejo sobre ventanas actuales.
-01:18-01:25 El cura mira desde arriba, buscando a sus antiguos estudiantes.
-01:25-01:32 Peaton mira la ventana; la figura desaparece y queda Cali reflejada.
+Timeline de produccion - 05 El cura de San Bosco
+Formato: vertical 9:16
+Duracion objetivo: 92s
+Estado de arte: no se encontraron imagenes generadas en 03 Arte/Generado. Timeline listo para producir arte y video.
+
+00:00-00:05 | Escena 01 | Imagen: PENDIENTE DE ARTE
+Visual requerido: Centro de Cali, repuestos, metal, rejas bajando, San Bosco al fondo.
+Movimiento: travelling desde vitrina cerrada hacia fachada.
+Transicion: fundido desde negro; reja metalica conduce a fachada.
+Sonido: rejas bajando, herramientas, motor lejano.
+
+00:05-00:11 | Escena 02 | Imagen: PENDIENTE DE ARTE
+Visual requerido: Fachada de San Bosco con luz amarilla y calle humeda.
+Movimiento: paneo de abajo hacia arriba; edificio urbano y vigilante.
+Transicion: metal a viento caliente; push-in a claustro.
+Sonido: centro apagandose, viento caliente.
+
+00:11-00:17 | Escena 03 | Imagen: PENDIENTE DE ARTE
+Visual requerido: Patio o pasillo escolar en penumbra, bancas y sombras largas.
+Movimiento: push-in lento por pasillo.
+Transicion: eco escolar a ventanas.
+Sonido: pasos infantiles muy lejanos, madera crujiendo.
+
+00:17-00:23 | Escena 04 | Imagen: PENDIENTE DE ARTE
+Visual requerido: Ventanas altas del claustro con reflejo de faroles.
+Movimiento: tilt ascendente hasta ventana puntual.
+Transicion: vidrio vibra; reflejo revela figura negra.
+Sonido: zumbido bajo, vidrio antiguo.
+
+00:23-00:30 | Escena 05 | Imagen: PENDIENTE DE ARTE
+Visual requerido: Sombra quieta detras del vidrio, sotana negra, rostro oculto.
+Movimiento: push-in contenido; no revelar cara.
+Transicion: roce de tela a humo de memoria.
+Sonido: golpe grave suave, tela rozando.
+
+00:30-00:36 | Escena 06 | Imagen: PENDIENTE DE ARTE
+Visual requerido: Padre Juan Manuel con estudiantes sugeridos en sombra.
+Movimiento: fundido con textura de archivo falso.
+Transicion: campana escolar a travelling lateral.
+Sonido: murmullo de aula, campana distante.
+
+00:36-00:42 | Escena 07 | Imagen: PENDIENTE DE ARTE
+Visual requerido: Pasillo de San Bosco, estudiantes en sombra, mano del padre sobre baranda.
+Movimiento: rack focus de mano a figuras juveniles.
+Transicion: corte seco a calle de 1945.
+Sonido: baldosa, madera, campana lejana.
+
+00:42-00:49 | Escena 08 | Imagen: PENDIENTE DE ARTE
+Visual requerido: Mano encendiendo cigarrillo, brasa roja y humo bajo farol.
+Movimiento: primer plano; humo cubre cuadro.
+Transicion: fosforo a mirada beoda.
+Sonido: fosforo, inhalacion leve, dron oscuro.
+
+00:49-00:56 | Escena 09 | Imagen: PENDIENTE DE ARTE
+Visual requerido: Hombre beodo ve al sacerdote como silueta imposible.
+Movimiento: camara ligeramente inestable desde percepcion alterada.
+Transicion: humo a destello de metal.
+Sonido: paso torpe, respiracion alterada, metal breve.
+
+00:56-01:02 | Escena 10 | Imagen: PENDIENTE DE ARTE
+Visual requerido: Ataque sugerido con pared, humo y sotana cayendo fuera de foco.
+Movimiento: corte rapido, luego plano quieto.
+Transicion: destello de metal a silencio.
+Sonido: golpe seco, silencio abrupto.
+
+01:02-01:10 | Escena 11 | Imagen: PENDIENTE DE ARTE
+Visual requerido: Calle vacia, farol parpadea, nadie sale.
+Movimiento: plano fijo largo.
+Transicion: silencio a mano levantada hacia San Bosco.
+Sonido: viento frio, reja vibrando.
+
+01:10-01:18 | Escena 12 | Imagen: PENDIENTE DE ARTE
+Visual requerido: Ultima plegaria del padre; fachada como destino.
+Movimiento: fundido lento de mano a claustro.
+Transicion: latido a nota coral; pasado/presente.
+Sonido: nota coral baja, latido lento.
+
+01:18-01:25 | Escena 13 | Imagen: PENDIENTE DE ARTE
+Visual requerido: Presente, humo convertido en reflejo sobre ventanas actuales.
+Movimiento: travelling lento a ventanas.
+Transicion: humo a vidrio; figura aparece en ventana alta.
+Sonido: herramientas se apagan, zumbido bajo.
+
+01:25-01:32 | Escena 14 | Imagen: PENDIENTE DE ARTE
+Visual requerido: El cura mira desde arriba; rostro oculto por reflejo de Cali.
+Movimiento: push-in desde acera hacia ventana.
+Transicion: vidrio cruje; peaton mira.
+Sonido: respiracion fria, campana lejana.
+
+01:32-01:38 | Escena 15 | Imagen: PENDIENTE DE ARTE
+Visual requerido: Peaton baja la mirada; ventana queda vacia con humo fino.
+Movimiento: leve retroceso desde espalda del peaton; fundido a negro.
+Transicion: campana larga a silencio.
+Sonido: campana escolar lejana, silencio final.
+
+Notas de produccion:
+- Antes de producir video, generar arte base de las 15 escenas o seleccionar una version corta.
+- Mantener la ventana alta como eje visual del episodio.

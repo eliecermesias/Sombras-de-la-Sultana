@@ -1,18 +1,63 @@
-﻿00:00-00:05 Fachada nocturna del antiguo Teatro Aristi, calle humeda y luces bajas.
-00:05-00:10 Acomodador en vestibulo oscuro con linterna amarilla.
-00:10-00:15 Pasillo central y butacas vacias; la linterna marca el camino.
-00:15-00:20 Fila A, silla 13, limpia y aislada.
-00:20-00:26 Joven con entrada antigua encontrada entre papeles de su abuela.
-00:26-00:32 Empleados bajan la voz al ver el numero de la silla.
-00:32-00:39 El acomodador toma la entrada y dice que el puesto la esperaba.
-00:39-00:46 La joven camina por la sala; aparecen marcas recientes en las butacas.
-00:46-00:53 La joven se sienta; el teatro respira y cambia la luz.
-00:53-01:00 Funcion actual se mezcla con gala antigua, palcos y murmullos.
-01:00-01:07 Mujer de blanco con ramo aparece en primera fila.
-01:07-01:14 Vision de la abuela joven mirando el escenario con miedo.
-01:14-01:22 Programa con nombre tachado; se sugiere desaparicion antes del ultimo acto.
-01:22-01:30 Publico invisible se levanta y aplaude; palcos llenos de sombras.
-01:30-01:38 La joven no aplaude; sus manos quietas abren un silencio.
-01:38-01:45 Se escucha el grito guardado; el telon se mueve y cae el ramo.
-01:45-01:52 Amanecer frente al Aristi; entrada partida en dos.
-01:52-02:00 Acomodador en pasillo oscuro: "Por aqui. La funcion todavia no termina."
+Timeline de produccion - 06 El acomodador del Aristi
+Formato: vertical 9:16
+Duracion objetivo: 85s
+Estado de arte: 8 imagenes generadas disponibles. Timeline ajustado a la version visual generada sobre Jorge Santillana.
+
+00:00-00:08 | Escena 01 | Imagen: ../03 Arte/Generado/escena-01-fachada-aristi-noche.png
+Movimiento: slow push-in a fachada nocturna; humedad en calle; luces bajas.
+Transicion entrada: fundido desde negro con campana / ciudad baja.
+Transicion salida: luz de marquesina a interior de sala.
+Sonido: ciudad nocturna, motores lejanos, reverberacion de teatro.
+
+00:08-00:18 | Escena 02 | Imagen: ../03 Arte/Generado/escena-02-jorge-acomodador-sala.png
+Movimiento: travelling por pasillo central; haz de linterna guiando butacas.
+Transicion entrada: barrido de luz.
+Transicion salida: click de linterna a tiquete.
+Sonido: click de linterna, butacas, murmullo de funcion.
+
+00:18-00:29 | Escena 03 | Imagen: ../03 Arte/Generado/escena-03-linterna-tiquete-ataque-sugerido.png
+Movimiento: primer plano de linterna y tiquete; sombra se acerca; evitar mostrar herida.
+Transicion entrada: tiquete en mano.
+Transicion salida: golpe seco a calle / proteccion.
+Sonido: papel, metal breve, respiracion rota, linterna cayendo.
+
+00:29-00:39 | Escena 04 | Imagen: ../03 Arte/Generado/escena-04-jorge-protege-hasta-taxi.png
+Movimiento: travelling lateral hacia la puerta; Jorge mantiene distancia protectora.
+Transicion entrada: linterna apagada a linterna encendida.
+Transicion salida: motor de taxi a recuerdo de amenaza.
+Sonido: motor acercandose, lluvia leve, puerta de taxi.
+
+00:39-00:49 | Escena 05 | Imagen: ../03 Arte/Generado/escena-05-bandido-asecha-a-jorge.png
+Movimiento: camara baja entre sombras; figura acecha; navaja sugerida.
+Transicion entrada: ruido de taxi se apaga a viento de parque.
+Transicion salida: corte por brillo metalico a mesa de Clara.
+Sonido: grillos, viento, metal apenas rozando.
+
+00:49-00:58 | Escena 06 | Imagen: ../03 Arte/Generado/escena-06-agua-de-panela-y-pan.png
+Movimiento: plano quieto; vapor suave; luz domestica calida; taza vibra levemente.
+Transicion entrada: brillo metalico a luz calida de casa.
+Transicion salida: silencio domestico a lamento.
+Sonido: cocina nocturna, taza sobre mesa, silencio tierno.
+
+00:58-01:09 | Escena 07 | Imagen: ../03 Arte/Generado/escena-07-clara-espera-a-jorge.png
+Movimiento: primer plano contenido; Clara mira hacia la puerta; sombra de amanecer.
+Transicion entrada: vapor a rostro.
+Transicion salida: fundido a lamento.
+Sonido: campana lejana, respiracion contenida.
+
+01:09-01:18 | Escena 08 | Imagen: ../03 Arte/Generado/escena-08-lamento-de-clara.png
+Movimiento: camara lenta; luz fria; duelo sobrio sin exageracion.
+Transicion entrada: campana a sollozo.
+Transicion salida: fundido de lamento a linterna final / negro.
+Sonido: sollozo contenido, sala vacia, tela quieta.
+
+01:18-01:25 | Cierre | Imagen: ../03 Arte/Generado/escena-02-jorge-acomodador-sala.png
+Movimiento: reutilizar sala con push-in al haz de linterna; fundido final a negro.
+Transicion entrada: lamento a click de linterna.
+Transicion salida: negro.
+Sonido: click de linterna, aplauso lejano, silencio final.
+
+Notas de produccion:
+- Este timeline usa solo las imagenes realmente generadas.
+- La version anterior con visitante, silla A-13 y funcion repetida queda descartada para este paquete visual.
+- Jorge debe sentirse protector, no vengativo.

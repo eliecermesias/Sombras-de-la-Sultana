@@ -1,22 +1,58 @@
-Timeline preliminar - 01 El caminante del Cementerio Central
+Timeline de produccion - 01 El caminante del Cementerio Central
+Formato: vertical 9:16
+Duracion objetivo: 57s
+Estado de arte: 7 imagenes generadas disponibles
 
-Escena 01: 00s-07s | escena-01-cementerio-central-noche.png
-Texto: Dicen que en el Cementerio Central de Cali hay una tumba que no siempre esta ahi.
+00:00-00:07 | Escena 01 | Imagen: ../03 Arte/Generado/escena-01-cementerio-central-noche.png
+Narracion: Dicen que en el Cementerio Central de Cali hay una tumba que no siempre esta ahi.
+Movimiento: slow push-in hacia la reja; niebla tropical moviendose en capas; luz amarilla parpadeando apenas.
+Transicion entrada: fundido desde negro con campana grave.
+Transicion salida: corte por sonido de pasos sobre grava hacia escena 02.
+Sonido: viento bajo, ciudad lejana, campana profunda.
 
-Escena 02: 07s-15s | escena-02-el-caminante-arcos.png
-Texto: Los martes, un hombre vestido de negro cruza la entrada sin saludar a nadie.
+00:07-00:15 | Escena 02 | Imagen: ../03 Arte/Generado/escena-02-el-caminante-arcos.png
+Narracion: Los martes, un hombre vestido de negro cruza la entrada sin saludar a nadie.
+Movimiento: travelling posterior muy lento; leve movimiento de abrigo; rostro siempre oculto.
+Transicion entrada: pasos continuan desde escena 01.
+Transicion salida: fundido suave entre arcos y piedra agrietada.
+Sonido: grava, respiracion baja, hojas.
 
-Escena 03: 15s-23s | escena-04-tumba-imposible-3pm.png
-Texto: La tumba que busca solo aparece los miercoles, exactamente a las tres de la tarde.
+00:15-00:23 | Escena 03 | Imagen: ../03 Arte/Generado/escena-04-tumba-imposible-3pm.png
+Narracion: La tumba que busca solo aparece los miercoles, exactamente a las tres de la tarde.
+Movimiento: mist reveal sobre la lapida; push-in a la grieta; brillo sobrenatural minimo.
+Transicion entrada: golpe de reloj a goteo.
+Transicion salida: acercamiento a grieta hasta llenar cuadro y cortar a lamento.
+Sonido: reloj lejano, goteo, zumbido oscuro.
 
-Escena 04: 23s-32s | escena-06-lamento-tumba.png
-Texto: El caminante se arrodilla frente a esa piedra y llora hasta que cae la tarde.
+00:23-00:32 | Escena 04 | Imagen: ../03 Arte/Generado/escena-06-lamento-tumba.png
+Narracion: El caminante se arrodilla frente a esa piedra y llora hasta que cae la tarde.
+Movimiento: plano fijo; niebla cruzando; vibracion sutil en hombros del caminante.
+Transicion entrada: corte desde la grieta.
+Transicion salida: llanto se convierte en ambiente de casa.
+Sonido: llanto lejano con reverb, viento apagandose.
 
-Escena 05: 32s-40s | escena-08-casa-madrugada.png
-Texto: El verdadero peligro no es verlo. Es escucharlo el domingo en la madrugada.
+00:32-00:40 | Escena 05 | Imagen: ../03 Arte/Generado/escena-08-casa-madrugada.png
+Narracion: El verdadero peligro no es verlo. Es escucharlo el domingo en la madrugada.
+Movimiento: slow dolly hacia la ventana; cortina moviendose sin viento; sombras alargadas.
+Transicion entrada: fundido desde niebla a cortina.
+Transicion salida: dolly hacia pasillo oscuro.
+Sonido: llanto distante acercandose, cama crujiendo.
 
-Escena 06: 40s-48s | escena-09-sombra-pasillo.png
-Texto: Quienes oyen sus lamentos despiertan sabiendo que algo los esta siguiendo.
+00:40-00:48 | Escena 06 | Imagen: ../03 Arte/Generado/escena-09-sombra-pasillo.png
+Narracion: Quienes oyen sus lamentos despiertan sabiendo que algo los esta siguiendo.
+Movimiento: zoom minimo hacia la sombra; respiracion entra antes de que la silueta se lea.
+Transicion entrada: respiracion junto al oido.
+Transicion salida: corte a negro parcial antes del susurro.
+Sonido: latido bajo, respiracion cercana.
 
-Escena 07: 48s-57s | escena-11-plano-final-tumba.png
-Texto: "Todavia no es tu turno." Y esos viven. De los otros... nadie ha podido contar.
+00:48-00:57 | Escena 07 | Imagen: ../03 Arte/Generado/escena-11-plano-final-tumba.png
+Narracion: "Todavia no es tu turno." Y esos viven. De los otros... nadie ha podido contar.
+Movimiento: fade in sobre lapida; flor fresca apenas movida por viento; grieta ensanchandose de forma muy sutil.
+Transicion entrada: susurro sobre negro.
+Transicion salida: fundido final a negro.
+Sonido: voz susurrada con reverb, llanto cortado, golpe grave seco.
+
+Notas de produccion:
+- Todas las escenas tienen imagen generada disponible.
+- Mantener ritmo lento; no usar jump scare visual.
+- La transicion central es sonora: el llanto viaja del cementerio a la casa.

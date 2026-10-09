@@ -1,0 +1,117 @@
+Timeline de produccion - 07 El espejo de Pance
+Formato: vertical 9:16
+Duracion objetivo: 150s
+Estado de arte: 13 imagenes generadas disponibles; escenas 10, 12, 14, 16 y 17 quedan como puentes o pendientes.
+
+00:00-00:07 | Escena 01 | Imagen: ../03 Arte/Generado/escena-01-pance-de-dia.png
+Movimiento: travelling lento sobre orilla hasta el agua; hojas y humo de sancocho suaves.
+Transicion entrada: fundido desde negro con agua clara.
+Transicion salida: match cut de agua clara a camino de La Voragine.
+Sonido: agua clara, risas, cucharas, hojas.
+
+00:07-00:14 | Escena 02 | Imagen: ../03 Arte/Generado/escena-02-la-voragine-pueblito-pance.png
+Movimiento: montaje con paneos cortos; vendedores y carretera como capas.
+Transicion entrada: agua a carretera.
+Transicion salida: fundido de tarde a noche.
+Sonido: motos lejanas, vendedores, rio bajo.
+
+00:14-00:21 | Escena 03 | Imagen: ../03 Arte/Generado/escena-03-la-curva-noche.png
+Movimiento: luces de negocios apagandose; carretera humeda; carros bajan hacia Cali.
+Transicion entrada: tarde a noche.
+Transicion salida: luz calida a recuerdo de abuela.
+Sonido: motor alejandose, grillos, viento leve.
+
+00:21-00:28 | Escena 04 | Imagen: ../03 Arte/Generado/escena-04-advertencia-abuela.png
+Movimiento: push-in al rostro de la abuela; olla y vapor como memoria.
+Transicion entrada: vapor de sancocho.
+Transicion salida: vapor a luz de celular.
+Sonido: voz grave, cucharas, rio como eco.
+
+00:28-00:36 | Escena 05 | Imagen: ../03 Arte/Generado/escena-05-llamada-mariela.png
+Movimiento: acercamiento al celular; rostro de Mariela iluminado; reja metalica vibra.
+Transicion entrada: cuchara a vibracion de llamada.
+Transicion salida: click de linterna hacia camino.
+Sonido: reja metalica, vibracion de celular, silencio.
+
+00:36-00:44 | Escena 06 | Imagen: ../03 Arte/Generado/escena-06-camino-orilla.png
+Movimiento: seguimiento desde atras; luz de linterna roza piedras y manteles recogidos.
+Transicion entrada: click de linterna.
+Transicion salida: haz de luz toca el agua.
+Sonido: pasos sobre grava, insectos, agua distante.
+
+00:44-00:52 | Escena 07 | Imagen: ../03 Arte/Generado/escena-07-agua-espejo.png
+Movimiento: tilt desde piedras mojadas a superficie negra; reflejos invertidos.
+Transicion entrada: linterna toca agua y ambiente se apaga.
+Transicion salida: corte entre reflejo y orilla vacia.
+Sonido: zumbido bajo, ambiente apagado.
+
+00:52-01:01 | Escena 08 | Imagen: ../03 Arte/Generado/escena-08-lucia-reflejo.png
+Movimiento: push-in al reflejo; Lucia peina su cabello; detras no hay nadie.
+Transicion entrada: gota aislada.
+Transicion salida: espejo dentro del reflejo.
+Sonido: peine pasando por cabello, gota aislada.
+
+01:01-01:10 | Escena 09 | Imagen: ../03 Arte/Generado/escena-09-santiago-en-espejo.png
+Movimiento: push-in al espejo; imagen de Santiago vibra con agua.
+Transicion entrada: reflejo a espejo.
+Transicion salida: corte a carrera por carretera.
+Sonido: pulso grave, respiracion de Mariela.
+
+01:10-01:17 | Escena 10 | Imagen: PENDIENTE DE ARTE / usar escena-03-la-curva-noche.png con camara inestable
+Movimiento: seguimiento lateral inestable; aviso de La Curva parpadea.
+Transicion entrada: pulso a pasos.
+Transicion salida: corte al plano dividido del rio.
+Sonido: pasos, linterna golpeando, aviso electrico.
+
+01:17-01:26 | Escena 11 | Imagen: ../03 Arte/Generado/escena-11-lucia-peina-santiago.png
+Movimiento: plano dividido entre cuerpo real y reflejo imposible; agua casi inmovil.
+Transicion entrada: corte desde carretera.
+Transicion salida: espejo se transforma en memoria.
+Sonido: risa infantil muy baja, corriente contenida.
+
+01:26-01:36 | Escena 12 | Imagen: PENDIENTE DE ARTE
+Movimiento: montaje fragmentado sin violencia grafica: mano, piedra, agua, rostro infantil.
+Transicion entrada: reflejo se vuelve recuerdo.
+Transicion salida: agua crece desde abajo.
+Sonido: golpe seco apagado, voces lejanas, agua creciendo.
+
+01:36-01:46 | Escena 13 | Imagen: ../03 Arte/Generado/escena-13-creciente-sin-lluvia.png
+Movimiento: camara baja al nivel del agua; corriente cubre tobillos y rodillas.
+Transicion entrada: agua invade cuadro.
+Transicion salida: corriente golpea hacia rescate.
+Sonido: creciente grave, piedras rodando.
+
+01:46-01:55 | Escena 14 | Imagen: PENDIENTE DE ARTE / usar escena-13-creciente-sin-lluvia.png con travelling frontal
+Movimiento: travelling frontal con sacudidas suaves; manos pequenas bajo agua sugeridas.
+Transicion entrada: corriente golpea lente.
+Transicion salida: corte a confesion.
+Sonido: respiracion, agua golpeando, susurros infantiles.
+
+01:55-02:05 | Escena 15 | Imagen: ../03 Arte/Generado/escena-15-confesion-mariela.png
+Movimiento: primer plano alternado con reflejo; silencio antes de frase.
+Transicion entrada: agua baja a silencio.
+Transicion salida: golpe de agua a linterna flotante.
+Sonido: silencio subito, golpe de agua.
+
+02:05-02:13 | Escena 16 | Imagen: PENDIENTE DE ARTE
+Movimiento: plano cenital de linterna flotando; rostro de Lucia reemplaza reflejo.
+Transicion entrada: golpe de agua.
+Transicion salida: agua se cierra a busqueda.
+Sonido: agua cerrandose, zumbido de linterna.
+
+02:13-02:21 | Escena 17 | Imagen: PENDIENTE DE ARTE
+Movimiento: montaje sobrio de vecinos con linternas; Santiago empapado cerca de La Curva.
+Transicion entrada: radios y voces bajas.
+Transicion salida: corte a rio quieto final.
+Sonido: voces bajas, radios, pasos en barro.
+
+02:21-02:30 | Escena 18 | Imagen: ../03 Arte/Generado/escena-18-advertencia-final.png
+Movimiento: push-in muy lento al reflejo; Lucia mira hacia camara; fundido a negro.
+Transicion entrada: superficie negra inmovil.
+Transicion salida: corte seco a silencio.
+Sonido: peinilla, agua inmovil, silencio final.
+
+Notas de produccion:
+- Primer armado posible con 13 imagenes y 5 escenas puente.
+- Prioridad de arte pendiente: secreto de Mariela, linterna flotante, busqueda final.
+- El agua es el eje de transicion: claro, negro, espejo, creciente, silencio.

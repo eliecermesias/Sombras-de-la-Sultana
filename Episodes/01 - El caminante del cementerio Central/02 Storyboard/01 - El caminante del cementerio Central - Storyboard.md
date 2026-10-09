@@ -126,6 +126,74 @@ Extreme close-up of a mysterious man in black whispering in darkness, only mouth
 - Casa de madrugada: slow dolly through window, curtains moving, shadow stretching on wall.
 - Cierre: fade to black, tombstone crack subtly widening, no jump scare visual excesivo.
 
+## Validacion audiovisual y ajustes de direccion
+
+El storyboard funciona como relato de advertencia, pero necesita reforzar el punto de vista, las transiciones y la forma de dibujar cada viñeta. La direccion debe tratar el cementerio como un lugar que observa y la casa como una extension de esa amenaza.
+
+### Regla de direccion general
+
+- La camara debe moverse con lentitud, como si tuviera miedo de despertar algo.
+- El caminante nunca se presenta de frente; primero aparece como silueta, luego como respiracion, despues como voz.
+- La tumba debe ser un motivo visual repetido: entrada, grieta, flor fresca y piedra sin nombre.
+- El cambio de cementerio a casa no debe sentirse como cambio de escena normal, sino como contaminacion del llanto.
+- Evitar susto facil: el miedo esta en reconocer un sonido que ya no pertenece al lugar donde empezo.
+
+### Transiciones principales
+
+| Transicion | De | A | Recurso visual | Recurso sonoro | Uso narrativo |
+|---|---|---|---|---|---|
+| Reja a mausoleos | Entrada del cementerio | Pasillo interior | Travelling que atraviesa la reja | Campana grave a pasos sobre grava | Hacer sentir que se cruza un limite. |
+| Reloj a tumba | Hora de las 3:00 p. m. | Piedra agrietada | Fundido entre manecillas y grieta | Golpe de reloj que se vuelve goteo | Marcar la aparicion imposible. |
+| Llanto a casa | Cementerio | Dormitorio de madrugada | Fundido desde niebla a cortina moviendose | Llanto lejano que se acerca | Mostrar que el sonido siguio al oyente. |
+| Pasillo a sombra | Ventana | Interior de la casa | Dolly lento por ventana hasta pasillo | Respiracion junto al oido | Convertir el hogar en territorio del caminante. |
+| Susurro a flor | Rostro oculto | Tumba sin nombre | Corte desde negro parcial a flor fresca | Frase suspendida, golpe seco | Cerrar con consecuencia y misterio. |
+
+## Diagramacion tecnica por escena
+
+| Escena | Plano / camara | Direccion | Transicion recomendada |
+|---|---|---|---|
+| 1 | Plano general vertical de la reja con zoom lento. | La entrada debe sentirse real, reconocible y condenada al mismo tiempo. | Fundido desde negro con campana. |
+| 2 | Travelling posterior del caminante. | No revelar rostro; el cuerpo debe pesar como memoria. | Corte por sonido de grava. |
+| 3 | Push-in entre mausoleos y niebla baja. | El cementerio debe parecer mas largo de lo normal. | Continuidad de pasos. |
+| 4 | Inserto del reloj y fundido a la tumba. | El tiempo activa la aparicion. | Golpe de reloj a goteo. |
+| 5 | Macro de la grieta en la lapida. | La grieta debe sentirse como boca cerrada. | Acercamiento hasta casi llenar cuadro. |
+| 6 | Plano fijo del caminante arrodillado. | El llanto no es amenaza todavia; es dolor contagioso. | Llanto crece y tapa ambiente. |
+| 7 | Plano abierto con sombra perdiendose. | No perseguirlo; dejar que desaparezca. | Corte lento a casa. |
+| 8 | Dolly por ventana hacia dormitorio. | La casa debe sentirse invadida por el cementerio. | Llanto como puente. |
+| 9 | Plano de pasillo oscuro con zoom minimo. | La sombra debe parecer quieta hasta que sea tarde. | Respiracion entra antes de verla. |
+| 10 | Primerisimo primer plano parcial. | La frase es la sentencia; la cara sigue prohibida. | Silencio de medio segundo antes del susurro. |
+| 11 | Plano casi negro de lapida y flor. | Cierre ritual, no explicativo. | Fundido a negro despues del golpe seco. |
+
+## Lectura tipo screenplay
+
+### Secuencia 1 - Exterior. Cementerio Central de Cali. Atardecer.
+
+La reja del cementerio aparece bajo una luz amarilla y humeda. El caminante entra sin mirar a nadie. Sus pasos suenan sobre la grava como si el lugar los reconociera.
+
+NARRADOR  
+Dicen que en el Cementerio Central de Cali hay una tumba que no siempre esta ahi.
+
+### Secuencia 2 - Interior. Cementerio. Tres de la tarde.
+
+Un reloj marca las tres. La tumba aparece entre la neblina. No tiene nombre. Solo una grieta negra. El caminante se arrodilla.
+
+No reza. Llora.
+
+El llanto empieza pequeno, casi como agua. Luego parece una voz que intenta decir algo.
+
+### Secuencia 3 - Interior. Casa caleña. Domingo de madrugada.
+
+Una persona despierta. El cuarto esta oscuro. La ventana se mueve sin viento. El llanto ya no viene de afuera: esta en la casa.
+
+En el pasillo aparece una sombra vestida de negro.
+
+CAMINANTE  
+Todavia no es tu turno.
+
+### Secuencia 4 - Exterior. Cementerio Central. Amanecer.
+
+La tumba sin nombre vuelve a estar en silencio. Sobre la piedra hay una flor fresca. La grieta parece apenas mas abierta.
+
 ## Diseño sonoro
 
 - Capa base: viento bajo, grillos nocturnos, ciudad lejana.

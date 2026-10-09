@@ -47,6 +47,88 @@ Si se necesita una duracion cercana a 75 segundos, unir estas escenas:
 - San Bosco debe sentirse caleño y urbano: centro, repuestos, calor, humedad, fachadas reales y luz de farol.
 - Evitar estetica gotica europea, demonios, posesiones, sangre o horror religioso exagerado.
 
+## Validacion audiovisual y ajustes de direccion
+
+El storyboard es solido y ya incluye funcion dramatica, pero necesita hacer mas explicitas las transiciones, la puesta en escena y el screenplay. La direccion debe proteger el tono moral del episodio: el padre no vuelve para asustar, vuelve para mirar si la ciudad cumplio su promesa.
+
+### Regla de direccion general
+
+- La ventana alta es el eje de composicion: debe aparecer como fachada, reflejo, aparicion y juicio silencioso.
+- El cigarrillo y el humo deben funcionar como puente entre vida, confusion y muerte.
+- La camara debe mantener respeto por el padre; nunca convertirlo en amenaza monstruosa.
+- El beodo se filma desde percepcion alterada: camara inestable, sombras y mala lectura del cuerpo del sacerdote.
+- El cierre debe sentirse como examen moral, no como susto.
+
+### Transiciones principales
+
+| Transicion | De | A | Recurso visual | Recurso sonoro | Uso narrativo |
+|---|---|---|---|---|---|
+| Reja a fachada | Centro comercial | San Bosco | Travelling desde persiana bajando a muro iluminado | Metal bajando a viento caliente | Pasar de ciudad cotidiana a memoria. |
+| Ventana a sotana | Claustro | Aparicion | Reflejo del vidrio revela figura negra | Zumbido a roce de tela | Introducir al padre sin mostrar rostro. |
+| Humo a pasado | Cigarrillo | Noche de 1945 | Humo cubre cuadro y revela calle antigua | Fosforo a ambiente suspendido | Activar la noche fatal. |
+| Mirada beoda | Calle | Ataque sugerido | Camara inclinada, farol y sombra deformada | Respiracion alterada, metal breve | Mostrar el error perceptivo. |
+| Mano a fachada | Caida | Plegaria | Mano levantada se funde con fachada de San Bosco | Latido a nota coral | Convertir muerte en encomienda. |
+| Reflejo a ciudad | Aparicion final | Cali actual | Vidrio mezcla silueta y ciudad | Campana escolar a dron grave | Hacer que el fantasma mire el presente. |
+
+## Diagramacion tecnica por escena
+
+| Escena | Plano / camara | Direccion | Transicion recomendada |
+|---|---|---|---|
+| 1 | Travelling desde vitrina cerrada hacia fachada. | El centro se apaga, pero San Bosco queda despierto. | Reja bajando como inicio sonoro. |
+| 2 | Paneo de abajo hacia arriba por la fachada. | El edificio debe sentirse urbano y vigilante. | Viento caliente. |
+| 3 | Push-in por pasillo vacio. | Dejar eco escolar, no terror explicito. | Pasos infantiles muy lejanos. |
+| 4 | Tilt hacia ventana puntual. | Señalar el eje del episodio sin revelar aun. | Vidrio vibra. |
+| 5 | Acercamiento a sombra tras vidrio. | Primero presencia, luego sotana. Rostro oculto. | Roce de tela. |
+| 6 | Fundido a recreacion antigua. | El padre se recuerda como maestro antes que fantasma. | Campana escolar. |
+| 7 | Travelling lateral por pasillo con estudiantes en sombra. | Formacion y disciplina, no nostalgia decorativa. | Pasos sobre baldosa. |
+| 8 | Rack focus de mano a estudiantes. | La mano representa cuidado y responsabilidad. | Madera y campana lejana. |
+| 9 | Corte seco a calle vacia. | La fecha debe sentirse como herida precisa. | Ambiente cae a silencio. |
+| 10 | Primer plano de brasa y humo. | El humo abre la memoria fatal. | Fosforo como puente. |
+| 11 | Camara inestable desde el beodo. | La confusion produce la tragedia. | Respiracion alterada. |
+| 12 | Destello de metal y corte a pared. | Ataque sugerido, nunca grafico. | Golpe seco y silencio. |
+| 13 | Plano fijo de calle vacia. | Subrayar abandono social. | Reja vibrando sola. |
+| 14 | Mano levantada hacia San Bosco. | Ultimo gesto como plegaria. | Fundido hacia claustro. |
+| 15 | Superposicion pasado / presente. | Lo que encomienda sigue vivo en Cali. | Campana mezclada con ciudad. |
+| 16 | Travelling a ventanas actuales. | La regla sobrenatural comienza en quietud. | Herramientas se apagan. |
+| 17 | Push-in a ventana alta. | Aparicion inmovil y triste. | Vidrio crujiendo. |
+| 18 | Camara detras del peaton. | El testigo entiende que mirar tambien compromete. | Latido bajo. |
+| 19 | Fundido al reflejo urbano. | El padre no mira atras: evalua el presente. | Dron grave. |
+| 20 | Ventana vacia y humo fino. | Cerrar con ausencia que pesa. | Campana larga a silencio. |
+
+## Lectura tipo screenplay
+
+### Secuencia 1 - Exterior. San Bosco / Centro de Cali. Final del dia.
+
+Las persianas de los negocios bajan. El metal suena sobre la calle. San Bosco queda al fondo, con una luz amarilla pegada a la fachada.
+
+NARRADOR  
+Dicen que en Cali hay colegios donde la noche no entra sola.
+
+### Secuencia 2 - Interior / Exterior. Claustro. Noche.
+
+Las ventanas altas reflejan faroles. Detras del vidrio aparece una sombra. Despues se distingue una sotana negra.
+
+El rostro no se ve.
+
+### Secuencia 3 - Interior. San Bosco. Memoria.
+
+El padre Juan Manuel camina entre estudiantes. Los mira como quien reconoce una responsabilidad futura. Su mano toca una baranda. Al fondo, las figuras juveniles se desenfocan.
+
+### Secuencia 4 - Exterior. Calle. Viernes 20 de abril de 1945.
+
+Una brasa roja ilumina la sotana. El humo sube. Desde la sombra, un hombre beodo lo mira y no entiende lo que ve.
+
+El metal cruza el encuadre. La pared recibe la sombra de la caida.
+
+Silencio.
+
+### Secuencia 5 - Exterior. San Bosco. Noche presente.
+
+Un peaton mira hacia la ventana alta. La figura del padre esta alli, inmovil. En el vidrio se mezcla su silueta con la Cali actual.
+
+NARRADOR  
+Tal vez no esta mirando el pasado. Tal vez esta mirando lo que Cali hizo con su promesa.
+
 ## Diseno sonoro
 
 - Capa base: centro de Cali apagandose, rejas, herramientas, motos lejanas y viento caliente.

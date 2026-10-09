@@ -28,6 +28,82 @@
 - Puerta: respiracion visual sutil, oscuridad profunda, camara acercandose con temblor minimo.
 - Cierre: silencio antes de la frase final, corte seco a negro.
 
+## Validacion audiovisual y ajustes de direccion
+
+El storyboard ya tiene una progresion clara, pero necesita reforzar el manejo de mirada, deseo y advertencia. La monja no debe dirigirse como monstruo: debe parecer una presencia que entiende la debilidad del que camina solo.
+
+### Regla de direccion general
+
+- La ciudad inicia viva y musical; la plazoleta debe ir apagando esa energia.
+- La monja aparece primero como interrupcion del espacio: una silueta donde no deberia haber nadie.
+- La transformacion a mujer hermosa debe hacerse por sombra, reflejo o cambio de angulo, no por efecto vistoso.
+- El borracho nunca debe parecer castigado por la historia, sino vulnerable a una llamada que no entiende.
+- La puerta imposible es el verdadero umbral; toda la puesta en escena debe conducir hacia ella.
+
+### Transiciones principales
+
+| Transicion | De | A | Recurso visual | Recurso sonoro | Uso narrativo |
+|---|---|---|---|---|---|
+| Ciudad a centro vacio | Cali nocturna | Calles despues de rumba | Travelling que baja de luces a vasos en el suelo | Salsa lejana que se deforma | Pasar de fiesta a advertencia. |
+| Torre a rosario | Arquitectura | Presencia | Tilt desde torre hasta dedos con cuentas | Campana que se vuelve roce de rosario | Unir lugar sagrado y aparicion. |
+| Monja a mujer | Silueta religiosa | Figura seductora | Cambio por sombra al cruzar un farol | Tela y nota musical baja | Mostrar ambiguedad sin romper tono. |
+| Voz a puerta | Borracho | Umbral imposible | Seguimiento desde atras hacia puerta estrecha | Voz femenina a respiracion de puerta | Hacer que el peligro lo guie. |
+| Cera a periodico | Amanecer | Memoria escrita | Fundido de mancha negra a tinta corrida | Escoba distante a papel moviendose | Convertir desaparicion en rumor urbano. |
+| Rosario a negro | Cierre | Condena | Rosario cerrandose como bisagra | Susurro, golpe seco | Final ritual. |
+
+## Diagramacion tecnica por escena
+
+| Escena | Plano / camara | Direccion | Transicion recomendada |
+|---|---|---|---|
+| 1 | Vista alta de Cali con travelling lento. | La musica debe sentirse atractiva, no siniestra aun. | Fundido desde luces de ciudad. |
+| 2 | Camara baja por calle con restos de rumba. | La fiesta ya termino; queda la vulnerabilidad. | Musica se deforma. |
+| 3 | Push-in a plazoleta vacia. | El espacio debe sentirse demasiado abierto y solitario. | Corte con fuente lejana. |
+| 4 | Paneo vertical hacia Torre Mudejar. | La arquitectura domina al personaje humano. | Campana grave. |
+| 5 | Plano fijo con silueta al fondo. | La monja cruza sin pedir atencion; el espectador debe descubrirla. | Escoba y vidrio como capa realista. |
+| 6 | Primer plano de rosario. | Las cuentas reemplazan al rostro como identificacion. | Roce de cuentas. |
+| 7 | Flashback con parpadeo de luz. | No explicar su pecado; sugerir dolor y encierro. | Campana apagada. |
+| 8 | Transformacion por sombra. | La belleza debe inquietar porque nace del mismo cuerpo. | Nota musical baja. |
+| 9 | Seguimiento desde atras del hombre. | El hombre cree elegir, pero la camara muestra que es guiado. | Voz femenina antes del corte. |
+| 10 | Push-in a puerta imposible. | La puerta debe respirar sin volverse fantastica. | Bisagra y respiracion. |
+| 11 | Cenital de objetos al amanecer. | La ausencia se cuenta con restos: botella, cera, rosario. | Silencio con escoba distante. |
+| 12 | Portada desenfocada. | El periodico confirma rumor, no prueba total. | Papel a golpe bajo. |
+| 13 | Zoom lento hacia velo. | La espera continua. | Campana despues de las tres. |
+| 14 | Detalle de rosario cerrandose. | Final como confesion sellada. | Corte seco a negro. |
+
+## Lectura tipo screenplay
+
+### Secuencia 1 - Exterior. Cali / Centro. Madrugada.
+
+La musica todavia flota sobre la ciudad. En el centro quedan vasos, pasos dispersos y luces que se apagan. La camara avanza hacia San Francisco.
+
+NARRADOR  
+Dicen que Cali sabe esconder sus advertencias entre la musica.
+
+### Secuencia 2 - Exterior. Plazoleta de San Francisco. Madrugada.
+
+Los barrenderos limpian botellas rotas. Al fondo, una monja cruza junto al muro. Nadie la llama. Nadie sabe si verla cuenta como advertencia.
+
+Un rosario se aprieta entre dedos palidos.
+
+### Secuencia 3 - Exterior. Bajo la torre. Noche.
+
+La silueta de monja cambia al pasar por una sombra. Ahora parece una mujer hermosa. Un hombre solo la escucha decir su nombre.
+
+Ella no corre. No insiste. Solo espera que el hombre la siga.
+
+### Secuencia 4 - Exterior. Muro del convento. Noche.
+
+La mujer lo guia hasta una puerta estrecha que no pertenece al muro. La puerta respira. El hombre entra.
+
+La oscuridad lo recibe sin ruido.
+
+### Secuencia 5 - Exterior. Plazoleta. Amanecer.
+
+Sobre las escaleras quedan una botella vacia, cera negra y un rosario roto. La plazoleta vuelve a parecer normal.
+
+NARRADOR  
+Cuando la monja te ofrece pasar, no te esta invitando. Te esta confesando.
+
 ## Diseño sonoro
 
 - Capa base: ciudad nocturna del centro, salsa lejana, motor de taxi ocasional.

@@ -3,18 +3,26 @@
 ## Lugar
 
 - Teatro Aristi, Cali.
-- Revisar fotografias historicas, fachada, sala interior, carteleras, vestibulo y contexto urbano antes de generar arte final.
+- Iglesia de Santa Rosa y entorno de libreros.
+- Hotel y parque de la manzana del Aristi.
+- La Pila del Crespo como referencia de ruta de fuga.
 
 ## Criterios de referencia
 
-- Priorizar imagenes que permitan reconocer arquitectura local sin copiar composiciones exactas.
-- Diferenciar el Aristi de teatros europeos genericos: entorno caleÃ±o, clima humedo, ciudad nocturna y memoria urbana.
-- Confirmar si se usara el nombre "Teatro Aristi" en piezas publicas o si conviene tratarlo como inspiracion ficcional.
+- Usar las referencias historicas como guia de atmosfera, arquitectura, sala, marquesina y oficio de acomodador.
+- No copiar composiciones exactas ni textos de fotografias o recortes.
+- Priorizar una Cali historica reconocible: humedad, centro, iglesia, libreros, teatro, calles estrechas y luz de marquesina.
 
-## Elementos a buscar
+## Elementos a buscar o conservar
 
-- Fachada historica o actual.
-- Sala de butacas y palcos, si existen referencias.
-- Programas de mano antiguos o boletos teatrales colombianos.
-- Uniformes de acomodadores de teatro.
-- Texturas de terciopelo rojo, madera vieja y telones.
+- Fachada y marquesina del Aristi.
+- Sala interior, cortinas, butacas y molduras.
+- Uniformes de acomodador con casaca roja o botoneria dorada.
+- Linternas pequenas de acomodador.
+- Ambientes domesticos populares: agua de panela, pan, mesa sencilla.
+- Fotografias o mapas de Santa Rosa, La Pila del Crespo y entorno del centro.
+
+## Precauciones
+
+- Verificar nombres propios y datos historicos antes de piezas documentales o publicaciones con tono factual.
+- Tratar a Jorge, Clara y el bandido como elementos de leyenda literaria si no hay fuente documental confirmada.

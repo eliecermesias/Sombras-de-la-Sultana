@@ -2,54 +2,46 @@
 
 ## Prompt maestro
 
-Dark cinematic urban legend scene inside the old Teatro Aristi in Cali Colombia, empty vintage theater hall, red velvet seats, humid old wood, heavy stage curtain, shadowy elderly usher in black uniform holding a small warm yellow flashlight, ghost audience suggested in balconies, theatrical horror realism, documentary texture, subtle film grain, no gore, no demons, no readable text, no watermark, vertical 9:16
+Dark cinematic historical urban legend scene around the old Teatro Aristi in Cali Colombia, 1940s-1950s mood, elegant movie theater facade, wet downtown street, Santa Rosa church atmosphere, used book vendors, young Colombian theater usher in dark red jacket holding a small warm metal flashlight, protective ghostly presence, documentary horror realism, subtle film grain, no gore, no demons, no readable text, no watermark, vertical 9:16
 
 ## Prompts por escena
 
 ### Escena 01 - Fachada del Aristi
 
-Old Teatro Aristi facade in Cali Colombia at night, humid street, dim urban lights, closed theater entrance, melancholic urban horror documentary realism, subtle film grain, vertical 9:16, no readable text, no watermark
+Old Teatro Aristi facade in downtown Cali Colombia at night, wet pavement, glowing vintage marquee without readable text, book stalls nearby, warm amber lights, melancholic urban legend atmosphere, cinematic historical realism, vertical 9:16, no watermark
 
-### Escena 02 - Vestibulo oscuro
+### Escena 02 - Santa Rosa y libreros
 
-Old theater lobby in Cali Colombia at night, aged walls, ticket booth in shadow, warm yellow flashlight beam entering frame, dusty air, cinematic urban legend mood, vertical 9:16, no readable text, no watermark
+Downtown Cali near Santa Rosa church at night, used book vendors closing tables, old books and humid street, warm church light, subtle mysterious mood, cinematic documentary realism, vertical 9:16, no readable text, no watermark
 
-### Escena 03 - Acomodador
+### Escena 03 - Jorge acomodador
 
-Elderly theater usher in black uniform and worn gloves holding a small warm yellow flashlight inside an old Colombian theater, calm mysterious posture, face partly hidden, documentary horror realism, vertical 9:16, no readable text, no watermark
+Young Colombian theater usher in dark red jacket guiding spectators inside an elegant old movie theater, small warm flashlight beam through dusty air, red seats, heavy curtain, dignified humble expression, historical realism, vertical 9:16, no text, no watermark
 
-### Escena 04 - Pasillo central
+### Escena 04 - Clara espera
 
-Empty vintage theater aisle with red velvet seats, old wood, humid atmosphere, warm flashlight beam pointing toward front row, eerie quiet theatrical mood, vertical 9:16, no text, no watermark
+Young Colombian woman waiting anxiously at the doorway of a modest old Cali home at night, warm lamp inside, cold wet street outside, cup of agua de panela and bread on table, tender melancholic mood, vertical 9:16, no text, no watermark
 
-### Escena 05 - Silla A13
+### Escena 05 - Agua de panela y pan
 
-Front row theater seat isolated in an old dark theater, red velvet, subtle dust in warm flashlight beam, unsettling urban legend atmosphere, vertical 9:16, no readable text, no watermark
+Close up still life of steaming agua de panela and bread on a humble wooden table, warm oil lamp, empty chair, old Colombian home, intimate tragic atmosphere, cinematic historical realism, vertical 9:16, no text, no watermark
 
-### Escena 06 - Entrada antigua
+### Escena 06 - Humillacion en la sala
 
-Close up of young woman holding an old folded theater ticket, aged paper, dim lobby light, mysterious mood, no readable text, cinematic realism, vertical 9:16, no watermark
+Elegant old movie theater interior in Cali, young red-jacket usher facing an arrogant wealthy visitor refusing his seat, tense public embarrassment, spectators turning around, no violence, cinematic realism, vertical 9:16, no readable text, no watermark
 
-### Escena 07 - Sala que recuerda
+### Escena 07 - Bandido acechando
 
-Old theater hall at night with empty red seats but faint ghost audience reflections in balconies, heavy curtain, warm yellow and deep black lighting, documentary horror realism, vertical 9:16, no text, no watermark
+Sinister bandit hidden in the shadows of a small park near Teatro Aristi, stalking a young red-jacket usher walking away with flashlight, wet pavement, warm theater glow in background, knife only suggested low in hand, no attack, vertical 9:16, no gore, no text
 
-### Escena 08 - Mujer de blanco
+### Escena 08 - Linterna y tiquete
 
-Elegant ghostly woman in a white dress sitting in the front row of an old theater, holding a bouquet of flowers, face partly obscured, red velvet seats, cinematic supernatural realism, no gore, vertical 9:16, no text, no watermark
+Aftermath on wet pavement near old theater, fallen metal flashlight glowing, old movie ticket, edge of red usher jacket, distant fleeing silhouette, non graphic tragic scene, cinematic historical urban horror, vertical 9:16, no readable text, no gore, no watermark
 
-### Escena 09 - Abuela joven
+### Escena 09 - Lamento de Clara
 
-Historical memory scene in an old Cali theater, young woman from the past sitting nervously in audience, vintage dress, dim warm lights, theater program in hand, film grain, vertical 9:16, no readable text, no watermark
+Clara grieving at dawn in modest old Cali home doorway, holding red usher cap or jacket fabric, cold agua de panela and bread still on table, gray morning street outside, restrained sorrow, cinematic historical realism, vertical 9:16, no gore, no text, no watermark
 
-### Escena 10 - Palcos fantasmas
+### Escena 10 - Jorge protector
 
-Old theater balconies filled with faint ghostly silhouettes, faces unclear, warm dim light, red velvet and dark wood, elegant urban horror mood, no gore, vertical 9:16, no text, no watermark
-
-### Escena 11 - Telon pesado
-
-Heavy red stage curtain in old theater moving slightly with no wind, bouquet dropped near stage edge, warm spotlight dust, melancholic supernatural atmosphere, vertical 9:16, no readable text, no watermark
-
-### Escena 12 - Cierre
-
-Old theater aisle at dawn light fading into darkness, elderly usher with yellow flashlight walking away between red seats, mysterious circular ending, documentary horror realism, vertical 9:16, no text, no watermark
+Protective ghostly young theater usher in dark red jacket accompanying a late spectator toward a waiting vintage taxi outside old Teatro Aristi at night, warm flashlight guiding the path, wet pavement, gentle melancholic mood, vertical 9:16, no readable text, no watermark

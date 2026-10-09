@@ -27,6 +27,82 @@
 - Mezclar memoria historica y Plaza de Caicedo actual con transiciones sutiles.
 - Cerrar con silencio despues del quejido final.
 
+## Validacion audiovisual y ajustes de direccion
+
+El storyboard necesita reforzar su tono de duelo y lealtad. La direccion no debe tratar al perro como amenaza, sino como presencia tragica. El miedo nace de verlo seguir esperando cuando ya no queda nadie a quien esperar.
+
+### Regla de direccion general
+
+- La camara debe bajar a la altura del perro en los momentos emocionales.
+- Joaquin se puede mostrar como figura historica, pero el punto de vista afectivo pertenece al animal.
+- Las transiciones entre pasado y presente deben hacerse por sombra del monumento, patas sobre piedra, lluvia o respiracion.
+- Evitar mostrar la muerte del perro de forma explicita; usar quietud, lluvia y distancia.
+- La Plaza de Caicedo actual debe sentirse cotidiana hasta que aparece la sombra pequeña.
+
+### Transiciones principales
+
+| Transicion | De | A | Recurso visual | Recurso sonoro | Uso narrativo |
+|---|---|---|---|---|---|
+| Bronce a camino | Estatua actual | Viaje historico | Fundido de textura del bronce a tierra del camino | Ciudad a viento seco | Pasar de monumento a memoria viva. |
+| Mano a hocico | Joaquin | Perro | Corte de mano humana a hocico contra piedra | Pasos a respiracion animal | Cambiar el centro emocional. |
+| Calabozo a tumba | Encierro | Duelo | Sombra del muro se funde con lluvia sobre tumba | Cadena a lluvia | Mostrar continuidad del abandono. |
+| Sombra de monumento | Pasado | Plaza actual | Sombra del pedestal cubre el cuadro | Lluvia a ambiente urbano | Regresar al presente sin romper tono. |
+| Orbita del pedestal | Aparicion | Reconocimiento | Camara rodea estatua con el perro | Pasos circulares | Convertir la espera en ritual. |
+| Quejido a silencio | Cierre | Negro | Perro se desvanece junto al pedestal | Quejido lejano, silencio | Final de duelo. |
+
+## Diagramacion tecnica por escena
+
+| Escena | Plano / camara | Direccion | Transicion recomendada |
+|---|---|---|---|
+| 1 | Travelling lento entre plaza y personas. | La cotidianidad debe anteceder la leyenda. | Ambiente urbano continuo. |
+| 2 | Contrapicado sobrio de la estatua. | El monumento se ve firme, pero incompleto. | Fundido de bronce a camino. |
+| 3 | Plano abierto historico con hombre y perro. | Presentar vinculo sin sentimentalismo excesivo. | Viento seco. |
+| 4 | Camara baja a nivel del perro. | El animal escucha antes de ver. | Respiracion animal. |
+| 5 | Plano fijo del calabozo y sombra afuera. | La lealtad se queda del lado del muro. | Goteo y cadena. |
+| 6 | Primer plano de patas y hocico. | El llanto debe ser contenido y fisico. | Silencio alrededor. |
+| 7 | Plano abierto bajo lluvia. | La espera se vuelve condena. | Fundido con lluvia. |
+| 8 | Camara quieta y distante. | No explotar la muerte; dejar que el tiempo pese. | Nota grave. |
+| 9 | Regreso a plaza con luz rara. | La sombra del monumento trae el pasado. | Sombra como transicion. |
+| 10 | Seguimiento lateral fuera de foco. | La aparicion primero es duda. | Patas arrastradas. |
+| 11 | Orbita lenta del pedestal. | El ritual se repite alrededor de Joaquin. | Pasos circulares. |
+| 12 | Push-in desde atras del perro. | La mirada hacia arriba debe partir el corazon. | Silencio sostenido. |
+| 13 | Camara en mano sutil desde testigo. | El humano entiende que no debe intervenir. | Latido bajo. |
+| 14 | Plano fijo del pedestal en penumbra. | El perro se va sin resolver su espera. | Quejido a negro. |
+
+## Lectura tipo screenplay
+
+### Secuencia 1 - Exterior. Plaza de Caicedo. Atardecer.
+
+La plaza sigue su rutina: palmeras, buses lejanos, gente que cruza sin mirar demasiado el monumento. La estatua de Joaquin permanece en bronce, quieta.
+
+NARRADOR  
+En Cali hay estatuas que no estan solas.
+
+La textura del bronce se funde con un camino antiguo.
+
+### Secuencia 2 - Exterior. Camino hacia Pasto. Pasado.
+
+Joaquin avanza con un perro mestizo a su lado. El animal no va delante ni detras: va con el. La relacion se cuenta en la distancia corta entre ambos.
+
+### Secuencia 3 - Exterior. Calabozo / Tumba. Pasado.
+
+El perro espera junto al muro. Llora contra la piedra. Luego la imagen cambia a lluvia sobre un lugar funerario. El perro sigue ahi.
+
+No se muestra su final. Solo la espera haciendose inmovil.
+
+### Secuencia 4 - Exterior. Plaza de Caicedo. Presente.
+
+Una sombra pequeña cruza entre bancas y palmeras. Rodea el pedestal una vez. Luego otra. Se detiene y mira hacia arriba.
+
+Un testigo intenta acercarse, pero se detiene.
+
+### Secuencia 5 - Exterior. Plaza de Caicedo. Noche.
+
+La sombra del perro se desvanece junto al monumento. La plaza queda normal otra vez, pero el silencio permanece.
+
+NARRADOR  
+Ese perro no esta perdido. Esta cumpliendo una espera.
+
 ## Diseño sonoro
 
 - Capa base: centro de Cali al atardecer, viento en palmeras, buses y pasos.

@@ -55,6 +55,147 @@ Si se necesita una duracion cercana a 75 segundos, unir estas escenas:
 - Evitar monstruos, demonios, deformidades o horror sangriento. El miedo nace de la injusticia, la noche y la memoria que sigue caminando.
 - La Pila del Crespo puede aparecer como referencia visual breve y oscura, sin convertirla en segunda locacion protagonista.
 
+## Validacion audiovisual y ajustes de direccion
+
+El storyboard base ya cuenta la historia completa, pero para produccion necesita reforzar tres capas: transiciones de camara, diagramacion de cada viñeta y lectura de screenplay. Estos ajustes buscan que cada escena pueda dibujarse, filmarse o animarse sin depender solamente de la narracion.
+
+### Regla de direccion general
+
+- La camara no debe comportarse como narrador turistico, sino como testigo de una memoria urbana.
+- En el primer bloque, los movimientos deben ser lentos y observacionales: travelling, paneos cortos y tilt de reconocimiento.
+- En el bloque del conflicto, la camara puede volverse mas cercana e inestable, pero sin exagerar la accion.
+- En el ataque, la violencia debe resolverse con montaje de sugerencia: sombra, metal, linterna, tiquete y silencio.
+- En el cierre, la camara debe volver a la calma inicial, pero ahora con la presencia de Jorge integrada a la manzana.
+
+### Gramática visual
+
+- Presente legendario: centro de Cali nocturno, luz amarilla de sodio, sombras suaves, humedad en la calle.
+- Pasado de Jorge: calidez de teatro, casaca roja, madera, molduras, publico elegante, textura de pelicula antigua.
+- Clara: luz domestica calida, composicion quieta, objetos sencillos y afectivos.
+- Antagonista: encuadres cerrados, sombra parcial, manos y gestos antes que rostro completo.
+- Jorge despues de muerto: siempre aparece primero por la linterna, luego por la casaca y al final por la silueta.
+
+### Transiciones principales
+
+| Transicion | De | A | Recurso visual | Recurso sonoro | Uso narrativo |
+|---|---|---|---|---|---|
+| Luz de iglesia a fachada | Santa Rosa | Teatro Aristi | Fundido por luz calida de puerta a marquesina | Campana que se mezcla con murmullo de sala | Conectar fe, barrio y teatro como una misma manzana. |
+| Pagina a tiquete | Libreros | Entrada de cine | Match cut entre pagina amarillenta y tiquete | Papel pasando a papel rozando | Convertir memoria escrita en memoria de cine. |
+| Linterna como puente | Presente | Pasado de Jorge | Haz de luz barre el cuadro y revela otra epoca | Click de linterna | Presentar a Jorge sin corte brusco. |
+| Puerta pesada | Zafarrancho | Expulsion | Puerta cerrandose hacia camara | Golpe seco que apaga el murmullo | Marcar el punto de no retorno del antagonista. |
+| Mesa de Clara | Teatro | Casa de Clara | Corte por objeto: billetes en bolsillo a pan sobre mesa | Murmullo de sala a silencio domestico | Humanizar el motivo de regreso de Jorge. |
+| Navaja a linterna | Amenaza | Ataque sugerido | Brillo metalico a luz amarilla cayendo | Metal breve, golpe seco, silencio | Evitar violencia grafica y mantener impacto. |
+| Amanecer a aparicion | Hallazgo | Fantasma protector | Fundido de linterna apagada a linterna encendida | Campana lejana a click de linterna | Transformar tragedia en leyenda protectora. |
+| Taxi a teatro | Calle segura | Aristi | Travelling lateral que se detiene en la puerta | Motor se aleja, aplauso lejano | Cerrar con Jorge regresando a su oficio eterno. |
+
+## Diagramacion tecnica por escena
+
+Usar esta lectura como guia para dibujar o animar cada viñeta. La columna "Direccion" define la intencion actoral y emocional; "Transicion" indica como entra o sale la escena.
+
+| Escena | Plano / camara | Direccion | Transicion recomendada |
+|---|---|---|---|
+| 1 | Plano general vertical con travelling lento desde calle hacia Santa Rosa. | La ciudad debe sentirse viva, pero contenida; la iglesia abre el tono ritual. | Fundido desde negro con campana lejana. |
+| 2 | Detalles de manos, libros y paginas; paneo horizontal corto. | Los libros funcionan como memoria popular, no como simple ambientacion. | Match cut de pagina amarilla a tiquete de cine. |
+| 3 | Tilt ascendente sobre fachada del Aristi. | Presentar el teatro como joya urbana y umbral de leyenda. | La musica de sala entra antes del corte. |
+| 4 | Push-in por vestibulo hacia sala. | La elegancia debe sentirse local y antigua, no generica. | Fundido suave con reverberacion. |
+| 5 | Montaje de cuatro puntos: iglesia, hotel, parque, teatro. | La manzana se convierte en territorio narrativo. | Fundidos encadenados por sombras. |
+| 6 | Camara desde atras siguiendo a Jorge a distancia. | No revelar el rostro completo; primero debe existir la linterna. | Barrido de luz hacia recreacion historica. |
+| 7 | Plano medio de Jorge frente al teatro, leve acercamiento. | Orgullo herido, pero dignidad intacta. | Corte sobrio al conflicto familiar. |
+| 8 | Contraste entre discusion familiar y Clara iluminada. | La presion social debe verse en bloque; Clara, en quietud. | Corte por golpe de puerta. |
+| 9 | Plano contraplano en oficina o vestibulo. | Don Adolfo evalua; Jorge no suplica, se sostiene. | Corte al objeto: linterna o uniforme. |
+| 10 | Primer plano de linterna pasando de mano a mano. | Este es el nacimiento simbolico del acomodador. | Click metalico como puente. |
+| 11 | Travelling por pasillo central con Jorge guiando publico. | Mostrar oficio, delicadeza y orgullo humilde. | Movimiento continuo hacia la llegada del antagonista. |
+| 12 | Camara mas cercana, ligeramente inestable. | La amenaza entra alterando la elegancia del teatro. | Murmullo se corta antes del dialogo. |
+| 13 | Cortes rapidos entre Jorge, visitante, publico y personal. | Humillacion social, no pelea fisica. | Corte a puerta pesada. |
+| 14 | Plano desde interior con puerta cerrandose hacia camara. | La expulsion debe sentirse definitiva. | Golpe de puerta a silencio de sala. |
+| 15 | Detalles de escoba, butacas, bolsillo con billetes. | Despues del ruido, volver a la ternura cotidiana. | Corte por billetes a pan sobre mesa. |
+| 16 | Plano fijo de Clara y la mesa sencilla. | Clara espera con amor cotidiano, no con dramatismo excesivo. | Silencio domestico a parque oscuro. |
+| 17 | Camara baja entre banca, arboles y sombra. | El peligro debe sentirse acechante y cobarde. | Brillo de metal antes del corte. |
+| 18 | Ataque sugerido: espalda de Jorge, sombra, tiquete y linterna. | No mostrar herida; el golpe emocional esta en los objetos que caen. | Corte rapido al tiquete en suelo. |
+| 19 | Camara fija mientras la figura huye. | La huida debe dejar vacio, no accion heroica. | Pasos se alejan hasta amanecer gris. |
+| 20 | Plano cenital contenido sobre casaca y linterna apagada. | Dolor sobrio, sin morbo. | Fundido a manos de Clara. |
+| 21 | Primer plano de pan intacto y rostro de Clara. | El duelo debe sentirse como promesa rota. | Corte al uniforme vacio. |
+| 22 | Plano fijo de uniforme colgado y linterna guardada. | Don Adolfo cierra una etapa, pero el teatro no obedece. | Linterna apagada a linterna encendida. |
+| 23 | Push-in desde oscuridad al haz de luz en sala presente. | La aparicion debe proteger, no atacar. | Click de linterna como entrada. |
+| 24 | Travelling lateral de Jorge acompañando hasta el taxi. | Jorge mantiene distancia respetuosa; cuida sin invadir. | Motor del taxi se aleja. |
+| 25 | Plano final fijo frente al Aristi; Jorge levanta la linterna. | Cierre inquietante y amable: la leyenda sigue trabajando. | Fundido a negro desde la luz. |
+
+## Lectura tipo screenplay
+
+### Secuencia 1 - Exterior. Centro de Cali / Santa Rosa / Teatro Aristi. Noche.
+
+La noche cae sobre la manzana. La iglesia de Santa Rosa permanece encendida. Cerca, los libreros cierran cajas y acomodan pilas de libros usados. La fachada del Aristi conserva una elegancia que parece resistirse al abandono del tiempo.
+
+La camara cruza la calle lentamente. Una luz amarilla aparece al fondo, demasiado baja para ser un farol.
+
+NARRADOR  
+Mientras se celebra la eucaristia en Santa Rosa, el centro de Cali guarda mas historias de las que cuenta.
+
+### Secuencia 2 - Interior. Teatro Aristi. Pasado.
+
+Jorge Santillana recibe una linterna y una casaca roja. La toma con respeto, como si aceptara algo mas grande que un empleo. Entra a la sala, ilumina las filas y acompaña a los asistentes hasta sus butacas.
+
+NARRADOR  
+Se llamaba Jorge Santillana. Y aunque venia de una familia importante, eligio empezar de nuevo como acomodador.
+
+Jorge sonrie al recibir unas monedas. Las guarda pensando en Clara.
+
+### Secuencia 3 - Interior. Teatro Aristi. Noche de funcion.
+
+Un visitante elegante se niega a ocupar su silla. Jorge señala el puesto correcto con calma. El hombre alza la voz. El publico gira la cabeza. La elegancia de la sala se rompe.
+
+VISITANTE  
+¿Usted me va a decir a mi donde sentarme?
+
+Jorge no responde con rabia. Solo sostiene la linterna y repite el gesto hacia la silla.
+
+El personal interviene. La puerta se cierra sobre el visitante expulsado.
+
+### Secuencia 4 - Interior / Exterior. Teatro Aristi y parque. Noche.
+
+La funcion termina. Jorge ordena la sala, guarda los billetes y sale hacia la calle. Clara espera en casa con agua de panela y pan.
+
+En el parque, una figura aguarda.
+
+Jorge cruza. La sombra aparece detras. La navaja brilla una sola vez.
+
+La linterna cae. El tiquete toca el suelo.
+
+Silencio.
+
+### Secuencia 5 - Interior. Casa de Clara. Amanecer.
+
+Clara sostiene el pan intacto. Nadie necesita decirle todo: la forma en que miran hacia la puerta ya lo ha dicho.
+
+NARRADOR  
+Clara maldijo al rufian que le arrebato a su querido Jorge.
+
+La taza vibra levemente sobre la mesa. A lo lejos, una campana.
+
+### Secuencia 6 - Interior. Teatro Aristi. Presente.
+
+Un espectador perdido entra tarde a la sala. No encuentra su puesto. La oscuridad parece crecer entre las butacas.
+
+Click.
+
+Una linterna se enciende. Primero aparece la luz. Luego la manga roja. Jorge señala la fila correcta.
+
+JORGE  
+Por aqui.
+
+El espectador se sienta. Jorge espera un instante, inclina la cabeza y vuelve al pasillo.
+
+### Secuencia 7 - Exterior. Teatro Aristi. Noche presente.
+
+Una persona sale tarde. La calle esta sola. Jorge camina a su lado hasta que un taxi llega a la puerta.
+
+No cruza mas alla. No sube. Solo levanta la linterna.
+
+NARRADOR  
+Tal vez no sea un alma perdida. Tal vez sea Jorge Santillana cumpliendo el unico oficio que la muerte no pudo quitarle.
+
+La luz de la linterna se apaga.
+
 ## Diseno sonoro
 
 - Capa base: centro de Cali nocturno, campanas de Santa Rosa, paginas de libros, carros antiguos o motores lejanos.

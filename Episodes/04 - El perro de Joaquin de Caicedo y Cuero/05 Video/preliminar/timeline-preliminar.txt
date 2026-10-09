@@ -1,16 +1,93 @@
-04 - El perro de Joaquin de Caicedo y Cuero - Timeline preliminar
+Timeline de produccion - 04 El perro de Joaquin de Caicedo y Cuero
+Formato: vertical 9:16
+Duracion objetivo: 92s
+Estado de arte: 6 imagenes generadas disponibles; varias escenas se resuelven con recortes y reutilizacion.
 
-00:00 - Plaza de Caicedo al atardecer; palmeras y salida de oficinistas.
-00:05 - Estatua de Joaquin de Caicedo y Cuero.
-00:10 - Recuerdo del viaje hacia Pasto y encuentro con el perro mestizo.
-00:16 - El perro siguiendo y esperando a su amo.
-00:22 - Calabozo: el perro llora junto al muro.
-00:29 - Detalle del llanto del perro.
-00:35 - Tumba o memoria funeraria bajo lluvia.
-00:42 - El perro muere a la intemperie, sugerido sin mostrarlo explicitamente.
-00:49 - Regreso a Plaza de Caicedo cerca del 25 de julio.
-00:55 - Sombra pequena entre palmeras.
-01:01 - El perro rodea la estatua una, dos o tres veces.
-01:08 - El perro mira hacia el hombre de bronce.
-01:14 - Testigo retrocede; advertencia de no llamarlo.
-01:20 - Cierre: "Porque ese perro no esta perdido. Esta cumpliendo una espera."
+00:00-00:06 | Escena 01 | Imagen: ../03 Arte/Generado/escena-01-plaza-caicedo-atardecer.png
+Movimiento: travelling lento entre plaza y flujo de personas; viento en palmeras.
+Transicion entrada: fundido desde negro.
+Transicion salida: push-in al monumento con textura de bronce.
+Sonido: centro de Cali, buses lejanos, viento.
+
+00:06-00:12 | Escena 02 | Imagen: ../03 Arte/Generado/escena-01-plaza-caicedo-atardecer.png
+Movimiento: recorte / push-in sobrio hacia estatua; contrapicado controlado.
+Transicion entrada: ambiente baja.
+Transicion salida: fundido de bronce a camino.
+Sonido: golpe grave suave.
+
+00:12-00:19 | Escena 03 | Imagen: ../03 Arte/Generado/escena-03-camino-pasto-perro.png
+Movimiento: plano abierto historico; viento seco; hombre y perro avanzan juntos.
+Transicion entrada: textura de bronce a tierra.
+Transicion salida: corte a camara baja / espera.
+Sonido: pasos sobre tierra, viento seco.
+
+00:19-00:25 | Escena 04 | Imagen: ../03 Arte/Generado/escena-03-camino-pasto-perro.png
+Movimiento: camara baja simulada a nivel del perro; leve seguimiento lateral.
+Transicion entrada: continuidad de pasos.
+Transicion salida: sombra de muro hacia calabozo.
+Sonido: respiracion animal tranquila.
+
+00:25-00:32 | Escena 05 | Imagen: ../03 Arte/Generado/escena-05-perro-calabozo.png
+Movimiento: plano fijo; luz de rendija parpadea; perro quieto junto a piedra.
+Transicion entrada: cadena distante.
+Transicion salida: acercamiento a patas / hocico.
+Sonido: quejido bajo, cadena, goteo.
+
+00:32-00:38 | Escena 06 | Imagen: ../03 Arte/Generado/escena-05-perro-calabozo.png
+Movimiento: recorte lento a patas y hocico; respiracion contenida.
+Transicion entrada: silencio alrededor.
+Transicion salida: fundido con lluvia.
+Sonido: llanto canino contenido.
+
+00:38-00:46 | Escena 07 | Imagen: ../03 Arte/Generado/escena-07-tumba-lluvia.png
+Movimiento: lluvia en capas; perro o sombra inmovil; camara quieta.
+Transicion entrada: cadena a lluvia.
+Transicion salida: lluvia cubre cuadro.
+Sonido: lluvia, respiracion debil.
+
+00:46-00:53 | Escena 08 | Imagen: ../03 Arte/Generado/escena-07-tumba-lluvia.png
+Movimiento: mantener distancia; oscurecer gradualmente; no mostrar muerte explicita.
+Transicion entrada: plano abierto bajo lluvia.
+Transicion salida: sombra del monumento cubre cuadro.
+Sonido: viento frio, nota grave.
+
+00:53-00:59 | Escena 09 | Imagen: ../03 Arte/Generado/escena-01-plaza-caicedo-atardecer.png
+Movimiento: regreso a plaza actual con luz rara; sombra del pedestal se alarga.
+Transicion entrada: lluvia a ambiente urbano.
+Transicion salida: seguimiento lateral de sombra pequena.
+Sonido: ciudad filtrada, palmeras.
+
+00:59-01:05 | Escena 10 | Imagen: ../03 Arte/Generado/escena-11-perro-estatua.png
+Movimiento: seguimiento lateral fuera de foco; aparicion primero como duda.
+Transicion entrada: sombra cruza bancas.
+Transicion salida: orbita del pedestal.
+Sonido: patas leves, eco bajo.
+
+01:05-01:13 | Escena 11 | Imagen: ../03 Arte/Generado/escena-11-perro-estatua.png
+Movimiento: orbita lenta alrededor del pedestal; repetir gesto con cortes suaves.
+Transicion entrada: pasos circulares.
+Transicion salida: push-in desde atras del perro.
+Sonido: pasos circulares, eco.
+
+01:13-01:20 | Escena 12 | Imagen: ../03 Arte/Generado/escena-11-perro-estatua.png
+Movimiento: push-in desde atras del perro hacia estatua; pausa sostenida.
+Transicion entrada: silencio progresivo.
+Transicion salida: camara en mano del testigo.
+Sonido: respiracion suspendida.
+
+01:20-01:26 | Escena 13 | Imagen: ../03 Arte/Generado/escena-14-cierre-perro-pedestal.png
+Movimiento: leve camara en mano; testigo retrocede sugerido por desenfoque o recorte.
+Transicion entrada: latido bajo.
+Transicion salida: fundido a pedestal final.
+Sonido: ambiente apagado.
+
+01:26-01:32 | Escena 14 | Imagen: ../03 Arte/Generado/escena-14-cierre-perro-pedestal.png
+Movimiento: perro o sombra se desvanece junto al pedestal; fundido lento a negro.
+Transicion entrada: quejido lejano.
+Transicion salida: silencio final.
+Sonido: quejido lejano, corte a silencio.
+
+Notas de produccion:
+- Primer armado viable con 6 imagenes.
+- Arte pendiente recomendado: estatua en contrapicado, testigo retrocediendo.
+- Mantener tono de duelo; el perro no debe parecer amenaza.

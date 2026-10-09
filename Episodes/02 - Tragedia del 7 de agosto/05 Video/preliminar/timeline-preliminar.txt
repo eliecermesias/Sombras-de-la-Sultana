@@ -1,0 +1,107 @@
+Timeline de produccion - 02 Tragedia del 7 de agosto
+Formato: vertical 9:16
+Duracion objetivo: 88s
+Estado de arte: 8 imagenes generadas disponibles; algunas escenas funcionan como puentes con reutilizacion controlada.
+
+00:00-00:06 | Escena 01 | Imagen: PENDIENTE DE ARTE
+Narracion: Dicen que Cali todavia guarda una madrugada que nunca termino de apagarse.
+Movimiento: travelling lento sobre Cali dormida; calor ondulando sobre techos.
+Transicion entrada: fundido desde negro.
+Transicion salida: travelling cae hacia bodegas.
+Sonido: zumbido nocturno, respiracion baja.
+
+00:06-00:12 | Escena 02 | Imagen: ../03 Arte/Generado/escena-02-bodegas-ferrocarril.png
+Narracion: Fue el 7 de agosto de 1956, cuando la ciudad dormia.
+Movimiento: slow push-in a puerta de bodega; vibracion minima en metal y madera.
+Transicion entrada: zumbido a metal vibrando.
+Transicion salida: flash blanco-naranja a humo.
+Sonido: metal vibrando, madera crujiendo.
+
+00:12-00:18 | Escena 03 | Imagen: ../03 Arte/Generado/escena-02-bodegas-ferrocarril.png
+Narracion: A la una de la manana, un trueno partio el cielo.
+Movimiento: flash rapido, vibracion de cuadro, corte a humo y polvo.
+Transicion entrada: puerta se ilumina desde adentro.
+Transicion salida: flash corta a ruinas.
+Sonido: explosion grave, silencio subito, campanas distorsionadas.
+
+00:18-00:25 | Escena 04 | Imagen: PENDIENTE DE ARTE
+Narracion: Despues vino el fuego. Vino el polvo metiendose en la boca.
+Movimiento: camara lenta entre humo y ceniza; siluetas sin detalle.
+Transicion entrada: humo cubre el cuadro.
+Transicion salida: rezo bajo hacia figura sacerdotal.
+Sonido: fuego lejano, tos, gritos apagados.
+
+00:25-00:32 | Escena 05 | Imagen: ../03 Arte/Generado/escena-05-padre-hurtado-galvis.png
+Narracion: El padre Hurtado Galviz salio a consolar a los vivos.
+Movimiento: plano fijo con leve acercamiento; ceniza flotando; figura pequena frente a la tragedia.
+Transicion entrada: humo abre sobre sacerdote.
+Transicion salida: fundido a cruz blanca.
+Sonido: rezo bajo, campana grave.
+
+00:32-00:40 | Escena 06 | Imagen: ../03 Arte/Generado/escena-06-cruz-blanca.png
+Narracion: Cerca de la cruz blanca que recuerda la tragedia, el aire cambia.
+Movimiento: push-in lento a la cruz; aire deformado por calor; ceniza suspendida.
+Transicion entrada: rezo a viento con ceniza.
+Transicion salida: paneo imaginado hacia zona oscura.
+Sonido: viento caliente, murmullo distante.
+
+00:40-00:47 | Escena 07 | Imagen: ../03 Arte/Generado/escena-06-cruz-blanca-v1.png
+Narracion: Cuando Cali celebra, hay un punto donde la alegria se quiebra.
+Movimiento: parpadeo de luz lejana; sombras creciendo alrededor de la cruz.
+Transicion entrada: musica festiva lejana se deforma.
+Transicion salida: bajar al pavimento oscuro.
+Sonido: musica lejana apagandose.
+
+00:47-00:54 | Escena 08 | Imagen: PENDIENTE DE ARTE
+Narracion: Se escucha respirar a los escombros.
+Movimiento: camara baja sobre pavimento; humo saliendo de grietas; respiracion subterranea.
+Transicion entrada: sombra de cruz cae sobre piso.
+Transicion salida: paso solitario activa aparicion del vigia.
+Sonido: respiracion subterranea, piedras moviendose.
+
+00:54-01:02 | Escena 09 | Imagen: ../03 Arte/Generado/escena-09-el-vigia.png
+Narracion: Y si alguien se queda demasiado tiempo, empieza a oir pasos. Es uno solo. El vigia.
+Movimiento: revelacion lenta desde humo; uniforme quemado; linterna apagada; rostro oculto.
+Transicion entrada: paso aislado antes de verlo.
+Transicion salida: corte a seguimiento del culpable.
+Sonido: paso solitario, tela quemada, golpe metalico.
+
+01:02-01:10 | Escena 10 | Imagen: ../03 Arte/Generado/escena-09-el-vigia.png
+Narracion: El suelo se calienta bajo sus zapatos. El pecho se les llena de humo.
+Movimiento: seguimiento sugerido desde atras; suelo con brillo rojo; vigia como presencia de fondo.
+Transicion entrada: latido crece.
+Transicion salida: humo abre puerta invisible.
+Sonido: latido, respiracion ahogada.
+
+01:10-01:18 | Escena 11 | Imagen: ../03 Arte/Generado/escena-11-puerta-invisible.png
+Narracion: El vigia abre una puerta que ya no existe.
+Movimiento: push-in hacia umbral; fuego negro detras; humo define bordes.
+Transicion entrada: humo desde suelo.
+Transicion salida: fundido de fuego negro a marca en piso.
+Sonido: bisagras oxidadas, rugido bajo.
+
+01:18-01:24 | Escena 12 | Imagen: PENDIENTE DE ARTE
+Narracion: A la manana siguiente, nadie encuentra sangre, ni ceniza, ni huellas.
+Movimiento: cenital lento sobre marca oscura; luz fria de amanecer.
+Transicion entrada: fuego negro se apaga.
+Transicion salida: corte a linterna final.
+Sonido: silencio, chispa minima.
+
+01:24-01:31 | Escena 13 | Imagen: ../03 Arte/Generado/escena-13-linterna-final.png
+Narracion: La ciudad entera se queda en silencio para dejarte oir la frase.
+Movimiento: zoom lento a linterna sin luz; humo bajo.
+Transicion entrada: silencio de medio segundo.
+Transicion salida: corte a casi negro.
+Sonido: zumbido grave, aire quieto.
+
+01:31-01:38 | Escena 14 | Imagen: ../03 Arte/Generado/escena-14-la-voz-del-projimo.png
+Narracion: "Nadie se acuesta en Cali sin escuchar la voz del projimo."
+Movimiento: imagen casi inmovil; respiracion de pavimento; fundido final a negro.
+Transicion entrada: susurro desde debajo del piso.
+Transicion salida: golpe grave final.
+Sonido: susurro profundo, golpe seco.
+
+Notas de produccion:
+- Priorizar escenas con arte existente para primer armado.
+- Escenas pendientes recomendadas: ciudad dormida, ruinas, pavimento respirando, marca oscura.
+- Evitar gore; la explosion se cuenta con luz, polvo, humo y sonido.

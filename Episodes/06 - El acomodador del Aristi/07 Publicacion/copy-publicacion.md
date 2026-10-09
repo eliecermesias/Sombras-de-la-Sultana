@@ -2,11 +2,11 @@
 
 ## TikTok / Reels / Shorts
 
-En el antiguo Teatro Aristi, algunos dicen que hubo un acomodador que no necesitaba mirar las entradas. Sabia donde debia sentarse cada persona... incluso quienes llegaban llamados por una funcion que nunca termino.
+En la manzana del Teatro Aristi, dicen que un joven acomodador asesinado despues de una funcion todavia aparece con su linterna. No viene a asustar. Viene a guiar a quienes salen tarde para que nadie vuelva a quedar solo en la oscuridad.
 
 ## Descripcion larga
 
-En el Aristi, la leyenda habla de una silla que nadie debia ocupar: fila A, silla 13. Cuando una joven llega con una entrada antigua encontrada entre los recuerdos de su abuela, el acomodador la guia hasta una funcion que el teatro lleva decadas repitiendo. A veces, los aplausos no celebran el final. A veces, esconden lo que nadie quiso escuchar.
+Jorge Santillana lo dejo todo por amor a Clara Mosquera y acepto trabajar como acomodador nocturno del Teatro Aristi. Una noche, despues de ser humillado por un visitante poderoso, salio de su turno pensando en el agua de panela y el pan que Clara le tenia preparados. Pero alguien lo esperaba en las sombras del parque. Desde entonces, cuentan que Jorge sigue apareciendo con su casaca roja y su linterna para ubicar a los asistentes y acompaÃ±arlos hasta que llegue su transporte.
 
 ## Hashtags
 
@@ -14,8 +14,9 @@ En el Aristi, la leyenda habla de una silla que nadie debia ocupar: fila A, sill
 
 ## Notas de miniatura
 
-- Acomodador viejo con linterna amarilla en pasillo de teatro.
-- Silla A-13 iluminada en primera fila.
-- Mujer de blanco con ramo en una sala vacia.
-- Texto sugerido: "LA FUNCION NO TERMINO".
-- Evitar sangre o monstruos; el miedo debe venir de la silla, el aplauso y la memoria del teatro.
+- Jorge con casaca roja y linterna frente al Aristi.
+- Linterna y tiquete de pelicula sobre pavimento humedo.
+- Clara sosteniendo la casaca roja al amanecer.
+- Bandido oculto en sombra mientras Jorge camina al fondo.
+- Texto sugerido: "EL ACOMODADOR SIGUE AHI".
+- Evitar sangre o monstruos; el miedo debe venir de la injusticia, la noche y la proteccion fantasmal.

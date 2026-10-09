@@ -121,6 +121,86 @@ La ciudad entera se queda en silencio para dejarte oir la frase que sube desde l
 - Puerta invisible: revelar con humo y luz negra, sin convertirla en portal fantastico colorido.
 - Cierre: silencio antes de la frase, corte seco al final.
 
+## Validacion audiovisual y ajustes de direccion
+
+El storyboard tiene fuerza historica, pero requiere una capa de direccion para no quedarse en ilustracion de hechos. La explosion debe sentirse como una herida que altera la ciudad, y el vigia como consecuencia moral de esa herida.
+
+### Regla de direccion general
+
+- La explosion no se muestra como espectaculo, sino como ruptura de la respiracion de Cali.
+- La camara debe pasar de calma nocturna a desorientacion breve, y luego a solemnidad.
+- La cruz blanca funciona como eje visual: memoria, culpa y umbral.
+- El vigia se revela por sonido antes que por imagen: paso solitario, tela quemada, linterna sin luz.
+- La puerta invisible debe sentirse fisica por humo, calor y sonido, no como portal fantastico.
+
+### Transiciones principales
+
+| Transicion | De | A | Recurso visual | Recurso sonoro | Uso narrativo |
+|---|---|---|---|---|---|
+| Ciudad dormida a bodegas | Cali nocturna | Ferrocarril | Travelling sobre techos que cae hacia una puerta | Zumbido nocturno a metal vibrando | Ubicar la tragedia antes del golpe. |
+| Flash a humo | Explosion | Ruinas | Pantalla blanca-naranja que corta a polvo | Explosion, silencio subito, tos distante | Evitar gore y conservar impacto. |
+| Rezo a cruz | Padre Hurtado | Cruz blanca | Fundido desde silueta sacerdotal a monumento | Rezo bajo a viento con ceniza | Pasar de consuelo historico a memoria urbana. |
+| Feria a esquina muda | Alegria lejana | Zona oscura | Paneo desde luces festivas hasta sombra quieta | Musica se deforma y desaparece | Mostrar donde la ciudad se quiebra. |
+| Paso a vigia | Pavimento | Aparicion | Camara baja sube lentamente al uniforme quemado | Un paso aislado ocupa todo el espacio | Presentar al guardian. |
+| Puerta a marca | Umbral invisible | Amanecer | Fundido desde fuego negro a mancha en piso | Bisagra oxidada a silencio | Dejar consecuencia sin mostrar desaparicion grafica. |
+
+## Diagramacion tecnica por escena
+
+| Escena | Plano / camara | Direccion | Transicion recomendada |
+|---|---|---|---|
+| 1 | Travelling lento sobre ciudad dormida. | Cali debe respirar tranquila antes de romperse. | Fundido desde negro con zumbido nocturno. |
+| 2 | Push-in hacia puerta de bodega. | La puerta debe sentirse cargada, como si contuviera presion. | Vibracion metalica creciente. |
+| 3 | Flash de luz y corte a humo. | Impacto seco, sin recrear destruccion grafica. | Blanco-naranja a silencio subito. |
+| 4 | Camara lenta entre polvo y siluetas. | Mostrar busqueda y desorientacion, no espectaculo. | Tos y fuego lejano. |
+| 5 | Plano fijo del sacerdote de espaldas. | Figura de consuelo, pequeña frente a la tragedia. | Rezo bajo hacia cruz. |
+| 6 | Acercamiento a la cruz blanca. | La cruz es memoria activa, no decorado. | Viento caliente con ceniza. |
+| 7 | Paneo de feria a oscuridad. | La alegria debe apagarse dentro del mismo movimiento. | Musica se deforma. |
+| 8 | Camara baja sobre pavimento. | El suelo parece respirar desde abajo. | Respiracion subterranea. |
+| 9 | Revelacion lenta del vigia. | Primero pasos, luego uniforme, nunca rostro completo. | Paso solitario antes de verlo. |
+| 10 | Seguimiento desde atras de la persona marcada. | La ciudad se queda muda alrededor del culpable. | Latido y respiracion ahogada. |
+| 11 | Push-in a puerta invisible. | El umbral debe ser aterrador por vacio y calor. | Bisagra oxidada. |
+| 12 | Cenital sobre marca oscura. | Consecuencia limpia, inquietante y sobria. | Silencio con chispa minima. |
+| 13 | Zoom hacia cruz y humo bajo. | La ciudad escucha la frase. | Pausa de medio segundo. |
+| 14 | Plano casi negro de linterna sin luz. | Cierre como condena ritual. | Susurro profundo y golpe grave. |
+
+## Lectura tipo screenplay
+
+### Secuencia 1 - Exterior. Cali. Madrugada del 7 de agosto de 1956.
+
+La ciudad duerme con ventanas abiertas. El calor vibra sobre los techos. Cerca de las bodegas del Ferrocarril del Pacifico, una puerta permanece cerrada.
+
+NARRADOR  
+Cali todavia guarda una madrugada que nunca termino de apagarse.
+
+La vibracion aumenta. Un resplandor parte el cuadro.
+
+### Secuencia 2 - Exterior. Ruinas. Despues de la explosion.
+
+El humo cubre la calle. Siluetas buscan entre escombros. El padre Hurtado Galviz camina entre los vivos, pequeño frente a la devastacion.
+
+No vemos cuerpos. Vemos polvo, fuego lejano y manos buscando nombres.
+
+### Secuencia 3 - Exterior. Cruz blanca. Noche presente.
+
+Las luces festivas de Cali suenan a lo lejos. Al llegar cerca de la cruz, la musica se apaga. El pavimento parece respirar.
+
+Un paso solitario aparece detras.
+
+El vigia levanta la cabeza. La linterna que lleva no ilumina nada.
+
+### Secuencia 4 - Exterior. Calle vacia. Noche.
+
+Una persona marcada por la culpa camina sola. El suelo se calienta. El vigia abre una puerta que no existe.
+
+Detras del umbral no hay paisaje. Solo fuego negro y voces contando cuerpos.
+
+### Secuencia 5 - Exterior. Amanecer.
+
+La calle esta vacia. No hay huellas. En el piso queda una marca oscura.
+
+NARRADOR  
+Debajo de sus calles, la explosion sigue encendida.
+
 ## Diseño sonoro
 
 - Capa base: ciudad nocturna, viento caliente, zumbido electrico leve.

@@ -2,57 +2,59 @@
 
 ## Direccion visual
 
-Terror urbano teatral en el antiguo Teatro Aristi de Cali: fachada nocturna, vestibulo oscuro, sala de butacas, terciopelo rojo gastado, madera humeda, palcos vacios, telon pesado, linterna amarilla y apariciones sugeridas como memoria del edificio antes que como monstruos.
+Terror urbano historico en la manzana del Teatro Aristi de Cali: Santa Rosa, libreros, hotel, parque, fachada de cine, sala elegante, casaca roja de acomodador, linterna amarilla, agua de panela esperando y una presencia protectora que aparece cuando la noche deja a alguien vulnerable.
 
 ## Paleta
 
-- Rojo terciopelo: butacas, telon, detalles de sala y memoria teatral.
-- Amarillo linterna: guia del acomodador, revelaciones parciales y recorrido por pasillos.
-- Negro teatro: palcos, laterales, bambalinas y zonas donde se oculta el publico fantasma.
-- Dorado viejo: molduras, programas de mano, borde de entradas antiguas.
-- Gris polvo: fachada, amanecer, telon viejo y aire suspendido.
+- Rojo casaca: Jorge, su oficio y su sacrificio.
+- Amarillo linterna: guia, proteccion y aparicion sobrenatural.
+- Ambar domestico: casa de Clara, agua de panela, pan y espera.
+- Negro parque: amenaza, sombra del bandido y ruta de fuga.
+- Gris amanecer: lamento, noticia y memoria.
+- Dorado viejo: teatro, marquesina, molduras y glamour del Aristi.
 
 ## Personajes o presencias
 
-- El acomodador: hombre mayor, uniforme negro, guantes gastados, linterna amarilla, postura serena y mirada de quien conoce el secreto.
-- La joven visitante: ropa contemporanea discreta, entrada antigua en la mano, expresion de duda y miedo contenido.
-- La mujer de blanco: figura elegante, quieta, con ramo de flores; rostro parcial u oculto.
-- La abuela joven: presencia de memoria, vestuario antiguo, mirada dirigida al escenario.
-- Publico fantasma: siluetas en butacas y palcos, sin rostros definidos o con facciones apenas sugeridas.
+- Jorge Santillana: joven acomodador, casaca roja, linterna pequena, gesto amable y digno. En vida es humilde y trabajador; como aparicion es protector.
+- Clara Mosquera: mujer popular, amorosa, humana; espera con agua de panela y pan. Su dolor debe ser contenido y real.
+- Don Adolfo Aristizabal: dueÃ±o del Aristi, figura sobria, asociada a la decision de no volver a contratar acomodadores.
+- El visitante instigador: hombre de clase alta, agresivo, orgulloso; luego sombra amenazante.
+- El bandido en el parque: presencia oscura, parcialmente oculta, con navaja sugerida.
+- El Aristi: edificio elegante, urbano y melancolico; mas memoria que escenario.
 
 ## Locaciones
 
-- Fachada nocturna del antiguo Teatro Aristi.
-- VestÃ­bulo o acceso con taquilla, paredes envejecidas y luz baja.
-- Pasillo central de la sala.
-- Fila A, silla 13.
-- Palcos vacios con reflejos o sombras.
-- Escenario con telon pesado y bambalinas oscuras.
-- Salida al amanecer frente al teatro.
+- Iglesia de Santa Rosa y entorno de libreros.
+- Fachada y marquesina del Teatro Aristi.
+- Vestibulo, sala y pasillos del teatro.
+- Parque o zona sombreada alrededor del Aristi.
+- Casa modesta de Clara.
+- Ruta hacia La Pila del Crespo.
+- Entrada del teatro con taxi nocturno.
 
 ## Motivos visuales
 
-- La linterna amarilla del acomodador.
-- La entrada antigua doblada.
-- La silla A-13.
-- El ramo de flores blanco o marchito.
-- El programa de mano con un nombre tachado.
-- Aplausos sugeridos por manos en sombra.
-- Reflejos donde la sala aparece llena aunque este vacia.
-- El telon moviendose sin viento.
+- Linterna encendida.
+- Casaca roja doblada, usada o caida.
+- Tiquete de pelicula.
+- Agua de panela humeante.
+- Pan intacto.
+- Libros usados.
+- Taxi esperando.
+- Pavimento humedo con reflejos de marquesina.
 
 ## Reglas de consistencia
 
 - Mantener relacion vertical 9:16 para Shorts/Reels/TikTok.
-- Evitar estetica gotica europea excesiva; el teatro debe sentirse local, caleno y urbano.
-- No usar sangre explicita, cuerpos mutilados, demonios ni posesiones.
-- No mostrar el rostro completo de los fantasmas; el terror debe estar en la presencia y la repeticion.
-- No llenar la sala de detalles modernos visibles que rompan la atmosfera.
-- La linterna debe ser siempre calida, pequena y direccional.
-- El acomodador nunca debe verse agresivo; su inquietud viene de la calma.
+- Evitar sangre explicita, heridas visibles o violencia grafica.
+- Jorge debe sentirse protector, no monstruoso.
+- Clara debe sentirse intima y humana, no espectral.
+- El bandido debe sugerirse desde sombra y encuadre, no como villano caricaturesco.
+- El Aristi debe verse local y urbano, con inspiracion historica sin copiar exactamente las referencias.
+- Evitar textos legibles en marquesinas, libros, tiquetes o periodicos.
 
 ## Referencias visuales internas
 
-- Usar del episodio 1 el manejo de aparicion nocturna y advertencia urbana.
-- Usar del episodio 3 el tono de figura vestida que guia hacia una puerta imposible.
-- Usar del episodio 5 la presencia vigilante y melancolica, cambiando lo religioso por lo teatral.
+- Usar del episodio 1 la aparicion nocturna urbana.
+- Usar del episodio 4 la emocion contenida alrededor de una perdida.
+- Usar del episodio 5 la presencia que vigila y protege, cambiando lo religioso por lo teatral y barrial.
